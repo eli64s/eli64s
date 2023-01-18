@@ -1,4 +1,4 @@
-[![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/eli64s/github-readme-stats)
+[![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=eli64s)](https://github.com/eli64s/github-readme-stats)
 
 ### Hi there 👋
 

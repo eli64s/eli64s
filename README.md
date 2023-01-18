@@ -1,10 +1,11 @@
 ## 👋 I'm Eli!
 
 I currently work in data engineering. Interestes areas include:
-  • Code Quality
-  • Data Processing and Transformation
-  • Machine Learning Operations (ML Ops)
-  • Software Development Best Practices
+
+- Code Quality
+- Data Processing and Transformation
+- Machine Learning Operations (ML Ops)
+- Software Development Best Practices
 
 What I work with:
 

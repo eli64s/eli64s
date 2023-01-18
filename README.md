@@ -1,5 +1,7 @@
 [![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=eli64s)](https://github.com/eli64s/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eli64s)](https://github.com/eli64s/github-readme-stats)
+
 ### Hi there 👋
 
 <!--

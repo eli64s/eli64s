@@ -23,7 +23,7 @@ What I'm learning:
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eli64s&theme=dracula&layout=compact)](https://github.com/eli64s/github-readme-stats)!
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eli64s&theme=nightowl&layout=compact)](https://github.com/eli64s/github-readme-stats)!
 
 <!--
 **eli64s/eli64s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

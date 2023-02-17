@@ -2,10 +2,9 @@
 
 ### Interests:
 
-- Code Quality
-- Data Processing and Transformation
-- Machine Learning Operations (ML Ops)
-- Software Development Best Practices
+• Machine Learning Infrastructure and Ops
+• Data Preprocessing and Transformation
+• Software Engineering Best Practices
 
 ### Experience:
 

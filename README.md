@@ -6,6 +6,8 @@
 - Data Preprocessing and Transformation
 - Software Engineering Best Practices
 
+### Experience
+
 <td>
 
 ---
@@ -18,7 +20,7 @@
 </td>
 
 
-### Experience:
+### Other Experience
 
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -26,7 +28,7 @@
 ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=Snowflake&logoColor=white)
 
-### Learning:
+### Learning
 
 ![dbt](https://img.shields.io/badge/dbt-FF694B.svg?style=for-the-badge&logo=dbt&logoColor=white)
 ![DVC](https://img.shields.io/badge/DVC-13ADC7.svg?style=for-the-badge&logo=DVC&logoColor=white)

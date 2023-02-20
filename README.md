@@ -10,8 +10,6 @@
 
 <td>
 
----
-
 |                                                    **Skills**                                                     | **Top Order**                                                                                                                                              | **2023 Stats**        |
 | :------------------------------------------------------------------------------------------------------------------: | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- |
 | ![McDonalds](https://img.shields.io/badge/McDonald's-FBC817.svg?style=for-the-badge&logo=McDonald's&logoColor=black) | <img src="https://img.icons8.com/color/256/mcdonalds-french-fries.png" alt="fries.png" height="50">                                                        | - 8 drive-thru visits |

@@ -8,7 +8,6 @@
 - Machine Learning Infrastructure and Ops
 - Data Preprocessing and Transformation
 - Software Engineering Best Practices
-  <br>  <br>
 
 <td>
 
@@ -20,19 +19,9 @@
 </td>
  
 ---
-
-## 📍 Experience
-
-> ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
-> ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8.svg?style=for-the-badge&logo=Snowflake&logoColor=white)
-> ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC.svg?style=for-the-badge&logo=Pytest&logoColor=white)
-> ![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-> ![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=NumPy&logoColor=white)
-> ![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white)
-
----
+<br>
   
-<table><td>
+<table><br><br><td>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eli64s&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 

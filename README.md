@@ -157,45 +157,44 @@
 > 
 > <!-- Interests, Studies, and Skills -->
 > <div align="center">
->     <div style="display: flex; justify-content: center; gap: 50px;">
->         <div>
->             <div align="center">
->                 <h2>
->                     <div style="display: inline-block;">
->                         <span style="vertical-align: middle;">⒊ Interest Areas</span>
->                         <img width="64" height="64"
->                             src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book-and-pencil.png"
->                             style="vertical-align: middle;" alt="book-and-pencil" />
->                     </div>
->                 </h2>
->             </div>
->             <table>
->                 <tr>
->                     <td align="center">
->                         Topic
->                     </td>
->                 </tr>
->                 <tr>
->                     <td align="center">📚 Engineering Best Practices</td>
->                 </tr>
->                 <tr>
->                     <td align="center">⚙️ Real-Time Data Streaming</td>
->                 </tr>
->                 <tr>
->                     <td align="center">🤖 Machine Learning and AI</td>
->                 </tr>
->                 <tr>
->                     <td align="center">🧪 Testing and Debugging</td>
->                 </tr>
->                 <tr>
->                     <td align="center">🔄 Data Preprocessing</td>
->                 </tr>
->             </table>
->         </div>
->         <br>
->         <hr>
->         <div>
->             <div>
+>     <table>
+>         <tr>
+>             <td style="padding-right: 100px;">
+>                 <div align="center">
+>                     <h2>
+>                         <div style="display: inline-block;">
+>                             <span style="vertical-align: middle;">⒊ Interest Areas</span>
+>                             <img width="64" height="64"
+>                                 src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book-and-pencil.png"
+>                                 style="vertical-align: middle;" alt="book-and-pencil" />
+>                         </div>
+>                     </h2>
+>                 </div>
+>                 <table>
+>                     <tr>
+>                         <td align="center">
+>                             Topic
+>                         </td>
+>                     </tr>
+>                     <tr>
+>                         <td align="center">📚 Engineering Best Practices</td>
+>                     </tr>
+>                     <tr>
+>                         <td align="center">⚙️ Real-Time Data Streaming</td>
+>                     </tr>
+>                     <tr>
+>                         <td align="center">🤖 Machine Learning and AI</td>
+>                     </tr>
+>                     <tr>
+>                         <td align="center">🧪 Testing and Debugging</td>
+>                     </tr>
+>                     <tr>
+>                         <td align="center">🔄 Data Preprocessing</td>
+>                     </tr>
+>                 </table>
+>             </td>
+>             <td></td> <!-- Empty cell for spacing -->
+>             <td>
 >                 <div align="center">
 >                     <h2>
 >                         <div style="display: inline-block;">
@@ -214,13 +213,19 @@
 >                             Level of Proficiency
 >                         </td>
 >                     </tr>
->                     <td align="center"><img
->                             src="https://img.shields.io/badge/McDonald's-FBC817.svg?style=for-the-badge&logo=McDonald's&logoColor=black"
->                             alt="McDonald's"></td>
->                     <td align="center"><img src="https://img.icons8.com/color/256/mcdonalds-french-fries.png"
->                             alt="fries.png" width="100"> <img
->                             src="https://img.icons8.com/color/256/mcdonalds-french-fries.png" alt="fries.png"
->                             width="100"></td>
+>                     <tr>
+>                         <td align="center">
+>                                 <img src="https://img.shields.io/badge/McDonald's-FBC817.svg?style=for-the-badge&logo=McDonald's&logoColor=black"
+>                                 alt="McDonald's">
+>                         </td>
+>                         <td align="center">
+>                                <img src="https://img.icons8.com/color/256/mcdonalds-french-fries.png" 
+>                                 alt="fries.png"
+>                                 height="50">
+>                                <img src="https://img.icons8.com/color/256/mcdonalds-french-fries.png" 
+>                                 alt="fries.png"
+>                                 height="50">
+>                         </td>
 >                     </tr>
 >                     <tr>
 >                         <td align="center"><img
@@ -229,10 +234,11 @@
 >                         <td align="center"><img
 >                                 src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9d373171-dec6-4799-b610-39da08d39942/dcmxqxj-de4517e6-0d36-4d0c-9457-fc710b9d32cf.png/v1/fill/w_800,h_308,strp/cute_tacos_by_biblio_dcmxqxj-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzA4IiwicGF0aCI6IlwvZlwvOWQzNzMxNzEtZGVjNi00Nzk5LWI2MTAtMzlkYTA4ZDM5OTQyXC9kY214cXhqLWRlNDUxN2U2LTBkMzYtNGQwYy05NDU3LWZjNzEwYjlkMzJjZi5wbmciLCJ3aWR0aCI6Ijw9ODAwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.EWRRpGbXETzJ71LdlJvq3uQ8twwMbNXrwQWCaabz1z8"
 >                                 height="50"></td>
->                 </tr>
->             </table>
->         </div>
->     </div>
+>                     </tr>
+>                 </table>
+>             </td>
+>         </tr>
+>     </table>
 > </div>
 > <br>
 > <hr>
@@ -243,6 +249,8 @@
 >         </a>
 >     </p>
 > </div>
+> <br>
+> <hr>
 
 
 <!--**eli64s/eli64s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

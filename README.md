@@ -52,7 +52,7 @@
 >     <tr>
 >       <td align="center">
 >         <a href="https://github.com/eli64s/README-AI" style="display: flex; align-items: center;">
->           <strong>README-AI</strong>&nbsp;&nbsp;&nbsp;&nbsp;
+>           <strong>README-AI</strong>
 >         </a>
 >       </td>
 >       <td align="center">
@@ -83,7 +83,7 @@
 >     <tr>
 >       <td align="center">
 >         <a href="https://github.com/eli64s/PyraShell" style="display: flex; align-items: center;">
->           <strong>PyraShell</strong>&nbsp;&nbsp;&nbsp;&nbsp;
+>           <strong>PyraShell</strong>
 >         </a>
 >       </td>
 >       <td align="center">

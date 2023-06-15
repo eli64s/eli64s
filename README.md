@@ -1,10 +1,10 @@
 <!-- Header -->
 > <div align="center">
->     <h1>
+>     <h2>
 >         🌊&nbsp;&nbsp;
 >         🌴&nbsp;&nbsp;
 >         🏰&nbsp;&nbsp;
->         🏎️&nbsp;💨&nbsp;&nbsp;
+>         🏎️💨&nbsp;&nbsp;
 >         &nbsp;&nbsp;&nbsp;
 >         Welcome Back!
 >         &nbsp;&nbsp;&nbsp;
@@ -13,7 +13,7 @@
 >         🌏&nbsp;&nbsp;
 >         🌎&nbsp;&nbsp;
 >         🛬&nbsp;&nbsp;
->     </h1>
+>     </h2>
 >     <h5>
 >         <i>📍 Data Engineer</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
 >         <i>🗺 Open-Source</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
@@ -27,13 +27,13 @@
 >
 > <!-- Open-Source Software -->
 > <div align="center">
->   <h1>
+>   <h2>
 >     <div style="display: inline-block;">
 >       <span style="vertical-align: middle;">⒈ Open-Source Projects</span>
 >       <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/code-fork.png"
 >         style="vertical-align: middle;" alt="code-fork" />
 >     </div>
->   </h1>
+>   </h2>
 >   <table>
 >     <tr>
 >       <td align="center">Project</td>
@@ -112,13 +112,13 @@
 > 
 > <!-- Github Usage Statistics -->
 > <div align="center">
->     <h1>
+>     <h2>
 >         <div style="display: inline-block;">
 >             <span style="display: inline-block;">⒉ GitHub Overview</span>
 >             <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/github.png"
 >                 style="vertical-align: middle;" alt="github" />
 >         </div>
->     </h1>
+>     </h2>
 >     <table>
 >         <tr>
 >             <td align="center">
@@ -150,12 +150,12 @@
 > 
 > <!-- Interests, Studies, and Skills -->
 > <div align="center">
->  <h1>
+>  <h2>
 >    <div style="display: inline-block;">
 >      <span style="vertical-align: middle;">⒊ Additional Interests & Skills</span>
 >        <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book-and-pencil.png" style="vertical-align: middle;" alt="book-and-pencil" />
 >     </div>
->  </h1>
+>  </h2>
 >     <table>
 >         <tr>
 >             <td style="padding-right: 100px;">

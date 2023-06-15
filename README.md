@@ -1,34 +1,38 @@
 <!-- Header -->
-<div align="center">
-    <h1>
-        🌊&nbsp;&nbsp;
-        🌴&nbsp;&nbsp;
-        🏰&nbsp;&nbsp;
-        🏎️&nbsp;💨&nbsp;&nbsp;
-    </h1>
-    <h2>
-        🛫&nbsp;&nbsp;
-        🙋‍♀️&nbsp;&nbsp;
-        🙋&nbsp;&nbsp;
-        🙋‍♂️&nbsp;&nbsp;&nbsp;&nbsp;
-        Welcome Back!
-        &nbsp;&nbsp;&nbsp;&nbsp;
-        🌍&nbsp;&nbsp;
-        🌏&nbsp;&nbsp;
-        🌎&nbsp;&nbsp;
-        🛬&nbsp;&nbsp;
-    </h2>
-    <h4>
-        <i>📍 Data Engineer</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
-        <i>🗺 Open-Source Contributor</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
-        <i>🤖 AGI Curious</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
-        <br><br>
-        <i>🏁 Motorsports Enjoyer</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
-        <i>🎧 Progressive House Fan</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
-        <i>🍣 Seafood Consumer</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
-        </td>
-</div>
-<hr>
+> <div align="center">
+>     <h1>
+>         🌊&nbsp;&nbsp;
+>         🌴&nbsp;&nbsp;
+>         🏰&nbsp;&nbsp;
+>         🏎️&nbsp;💨&nbsp;&nbsp;
+>     </h1>
+>     <h2>
+>         🛫&nbsp;&nbsp;
+>         🙋‍♀️&nbsp;&nbsp;
+>         🙋&nbsp;&nbsp;
+>         🙋‍♂️&nbsp;&nbsp;&nbsp;&nbsp;
+>         Welcome Back!
+>         &nbsp;&nbsp;&nbsp;&nbsp;
+>         🌍&nbsp;&nbsp;
+>         🌏&nbsp;&nbsp;
+>         🌎&nbsp;&nbsp;
+>         🛬&nbsp;&nbsp;
+>     </h2>
+>     <h4>
+>         <i>📍 Data Engineer</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
+>         <i>🗺 Open-Source Contributor</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
+>         <i>🤖 AGI Curious</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
+>         <br><br>
+>         <i>🏁 Motorsports Enjoyer</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
+>         <i>🎧 Progressive House Fan</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
+>         <i>🍣 Seafood Consumer</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
+>         </td>
+> </div>
+> <hr>
+
+<div align="center"><h1><strong>Quick Facts</strong></h1></div>
+
+<div align="center"><h1>⒈<br>👇</h1></div>
 
 
 <!-- Open-Source Software -->
@@ -112,8 +116,9 @@
     </tr>
   </table>
 </div>
-
 <br>
+<hr>
+<div align="center"><h1>⒉<br>👇</h1></div>
 
 
 <!-- Github Usage Statistics -->
@@ -151,6 +156,8 @@
     </table>
 </div>
 <br>
+<hr>
+<div align="center"><h1>⒊<br>👇</h1></div>
 
 
 <!-- Interests, Studies, and Skills -->
@@ -190,6 +197,9 @@
                 </tr>
             </table>
         </div>
+        <br>
+        <hr>
+        <div align="center"><h1>⒋<br>👇</h1></div>
         <div>
             <div>
                 <div align="center">
@@ -232,6 +242,13 @@
 </div>
 <br>
 <hr>
+<div align="center">
+    <p align="right">
+        <a href="#top">
+            <b>🔝 Return</b>
+        </a>
+    </p>
+</div>
 
 
 <!--**eli64s/eli64s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

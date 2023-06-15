@@ -241,13 +241,12 @@
 >     </table>
 > </div>
 > <br>
-> <hr>
 > <div align="center">
->     <p align="right">
+>     <p align="right"><div align="center">
 >         <a href="#top">
 >             <b>🔝 Return</b>
 >         </a>
->     </p>
+>    </div></p>
 > </div>
 > <br>
 > <hr>

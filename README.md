@@ -31,7 +31,7 @@
 > <div align="center">
 >   <h2>
 >     <div style="display: inline-block;">
->       <span style="vertical-align: middle;">⒈ Open-Source Software</span>
+>       <span style="vertical-align: middle;">⒈ Open-Source Projects</span>
 >       <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/code-fork.png"
 >         style="vertical-align: middle;" alt="code-fork" />
 >     </div>
@@ -116,7 +116,7 @@
 > <div align="center">
 >     <h2>
 >         <div style="display: inline-block;">
->             <span style="display: inline-block;">⒉ Github Usage</span>
+>             <span style="display: inline-block;">⒉ GitHub Overview</span>
 >             <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/github.png"
 >                 style="vertical-align: middle;" alt="github" />
 >         </div>
@@ -154,7 +154,7 @@
 > <div align="center">
 >  <h2>
 >    <div style="display: inline-block;">
->      <span style="vertical-align: middle;">⒊ Interests & Skills</span>
+>      <span style="vertical-align: middle;">⒊ Additional Interests & Skills</span>
 >        <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book-and-pencil.png" style="vertical-align: middle;" alt="book-and-pencil" />
 >     </div>
 >  </h2>

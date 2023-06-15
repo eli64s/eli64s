@@ -4,10 +4,10 @@
 >         🌊&nbsp;&nbsp;
 >         🌴&nbsp;&nbsp;
 >         🏰&nbsp;&nbsp;
->         🏎️&nbsp;💨&nbsp;&nbsp;&nbsp;
->         &nbsp;&nbsp;&nbsp;&nbsp;
+>         🏎️&nbsp;💨&nbsp;&nbsp;
+>         &nbsp;&nbsp;&nbsp;
 >         Welcome Back!
->         &nbsp;&nbsp;&nbsp;&nbsp;
+>         &nbsp;&nbsp;&nbsp;
 >         🛫&nbsp;&nbsp;
 >         🌍&nbsp;&nbsp;
 >         🌏&nbsp;&nbsp;
@@ -22,12 +22,8 @@
 >         <i>🎧 Progressive House</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
 >         <i>🍣 Seafood</i>
 >     </h5>
-> </div>
 > <hr>
-> <div align="center">
->   <h1>👇</h1>
-> </div>
-> 
+> <h1>👇</h1>
 >
 > <!-- Open-Source Software -->
 > <div align="center">
@@ -231,6 +227,7 @@
 >             <b>🔝 Return</b>
 >         </a>
 >    </div></p>
+> </div>
 > </div>
 > <hr>
 

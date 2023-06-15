@@ -21,7 +21,6 @@
 >         <i>🏁 Motorsports</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
 >         <i>🎧 Progressive House</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
 >         <i>🍣 Seafood</i>
->         </td>
 >     </h4>
 > </div>
 > <hr>

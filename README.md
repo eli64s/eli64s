@@ -4,28 +4,23 @@
 >         🌊&nbsp;&nbsp;
 >         🌴&nbsp;&nbsp;
 >         🏰&nbsp;&nbsp;
->         🏎️&nbsp;💨&nbsp;&nbsp;
->     </h1>
->     <h2>
->         🛫&nbsp;&nbsp;
->         🙋‍♀️&nbsp;&nbsp;
->         🙋&nbsp;&nbsp;
->         🙋‍♂️&nbsp;&nbsp;&nbsp;&nbsp;
+>         🏎️&nbsp;💨&nbsp;&nbsp;&nbsp;
+>         &nbsp;&nbsp;&nbsp;&nbsp;
 >         Welcome Back!
 >         &nbsp;&nbsp;&nbsp;&nbsp;
+>         🛫&nbsp;&nbsp;
 >         🌍&nbsp;&nbsp;
 >         🌏&nbsp;&nbsp;
 >         🌎&nbsp;&nbsp;
 >         🛬&nbsp;&nbsp;
->     </h2>
+>     </h1>
 >     <h4>
 >         <i>📍 Data Engineer</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
->         <i>🗺 Open-Source Contributor</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
->         <i>🤖 AGI Curious</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
->         <br><br>
->         <i>🏁 Motorsports Enjoyer</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
->         <i>🎧 Progressive House Fan</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
->         <i>🍣 Seafood Consumer</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
+>         <i>🗺 Open-Source</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
+>         <i>🤖 AI Curious</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
+>         <i>🏁 Motorsports</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
+>         <i>🎧 Progressive House</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
+>         <i>🍣 Seafood</i>
 >         </td>
 > </div>
 > <hr>
@@ -159,7 +154,7 @@
 > <div align="center">
 >  <h2>
 >    <div style="display: inline-block;">
->      <span style="vertical-align: middle;">⒊ Interest Areas & Skills</span>
+>      <span style="vertical-align: middle;">⒊ Interests & Skills</span>
 >        <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book-and-pencil.png" style="vertical-align: middle;" alt="book-and-pencil" />
 >     </div>
 >  </h2>
@@ -169,7 +164,7 @@
 >                 <table>
 >                     <tr>
 >                         <td align="center">
->                             Topic
+>                             Interest Ar
 >                         </td>
 >                     </tr>
 >                     <tr>

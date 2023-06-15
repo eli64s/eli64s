@@ -153,23 +153,19 @@
 > </div>
 > <br>
 > <hr>
-> 
+>
 > 
 > <!-- Interests, Studies, and Skills -->
 > <div align="center">
+>  <h2>
+>    <div style="display: inline-block;">
+>      <span style="vertical-align: middle;">⒊ Interest Areas & Skills</span>
+>        <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book-and-pencil.png" style="vertical-align: middle;" alt="book-and-pencil" />
+>     </div>
+>  </h2>
 >     <table>
 >         <tr>
 >             <td style="padding-right: 100px;">
->                 <div align="center">
->                     <h2>
->                         <div style="display: inline-block;">
->                             <span style="vertical-align: middle;">⒊ Interest Areas</span>
->                             <img width="64" height="64"
->                                 src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book-and-pencil.png"
->                                 style="vertical-align: middle;" alt="book-and-pencil" />
->                         </div>
->                     </h2>
->                 </div>
 >                 <table>
 >                     <tr>
 >                         <td align="center">
@@ -195,15 +191,6 @@
 >             </td>
 >             <td></td> <!-- Empty cell for spacing -->
 >             <td>
->                 <div align="center">
->                     <h2>
->                         <div style="display: inline-block;">
->                             <span style="vertical-align: middle;">⒋ More Skills</span>
->                             <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/resume.png"
->                                 style="vertical-align: middle;" alt="resume" />
->                         </div>
->                     </h2>
->                 </div>
 >                 <table>
 >                     <tr>
 >                         <td align="center">
@@ -244,11 +231,10 @@
 > <div align="center">
 >     <p align="right"><div align="center">
 >         <a href="#top">
->             <b>🔝 Return</b>
+>             <h2><b>🔝 Return</b></h2>
 >         </a>
 >    </div></p>
 > </div>
-> <br>
 > <hr>
 
 

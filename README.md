@@ -1,23 +1,20 @@
 <!-- Header -->
 > <div align="center">
 >     <h2>
->         🌊&nbsp;&nbsp;
->         🌴&nbsp;&nbsp;
->         🏰&nbsp;&nbsp;
->         🏎️💨&nbsp;&nbsp;
->         &nbsp;&nbsp;&nbsp;
->         Welcome Back!
->         &nbsp;&nbsp;&nbsp;
->         🛫&nbsp;&nbsp;
->         🌍&nbsp;&nbsp;
->         🌏&nbsp;&nbsp;
->         🌎&nbsp;&nbsp;
->         🛬&nbsp;&nbsp;
+>         🌊&nbsp;
+>         🌴&nbsp;
+>         🏰&nbsp;
+>         🏎️💨&nbsp;
+>         &nbsp;&nbsp;Welcome Back!&nbsp;&nbsp;
+>         🛫&nbsp;
+>         🌍&nbsp;
+>         🌏&nbsp;
+>         🌎&nbsp;
+>         🛬&nbsp;
 >     </h2>
 >     <h5>
 >         <i>📍 Data Engineer</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
 >         <i>🗺 Open-Source</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
->         <i>🤖 AGI Curious</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
 >         <i>🏁 Motorsports</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
 >         <i>🎧 Progressive House</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
 >         <i>🍣 Seafood</i>

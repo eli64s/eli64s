@@ -22,9 +22,10 @@
 >         <i>🎧 Progressive House</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
 >         <i>🍣 Seafood</i>
 >         </td>
+>     </h4>
 > </div>
 > <hr>
-> <div align="center"><h1><strong>Quick Facts 👇</strong></h1></div>
+> <div align="center"><h1><strong>📍 Quick Facts<br>👇</strong></h1></div>
 > 
 >
 > <!-- Open-Source Software -->
@@ -184,7 +185,7 @@
 >                     </tr>
 >                 </table>
 >             </td>
->             <td></td> <!-- Empty cell for spacing -->
+>             <td>&nbsp;&nbsp;&nbsp;&nbsp;</td> <!-- Empty cell for spacing -->
 >             <td>
 >                 <table>
 >                     <tr>

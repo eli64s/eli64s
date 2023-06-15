@@ -17,7 +17,7 @@
 >     <h4>
 >         <i>📍 Data Engineer</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
 >         <i>🗺 Open-Source</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
->         <i>🤖 AI Curious</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
+>         <i>🤖 AGI Curious</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
 >         <i>🏁 Motorsports</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
 >         <i>🎧 Progressive House</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
 >         <i>🍣 Seafood</i>
@@ -164,7 +164,7 @@
 >                 <table>
 >                     <tr>
 >                         <td align="center">
->                             Interest Ar
+>                             Interest Areas
 >                         </td>
 >                     </tr>
 >                     <tr>

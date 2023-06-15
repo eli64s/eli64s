@@ -25,18 +25,18 @@
 >     </h4>
 > </div>
 > <hr>
-> <div align="center"><h1><strong>📍 Quick Facts<br>👇</strong></h1></div>
+> <div align="center"><h1>👇</h1></div>
 > 
 >
 > <!-- Open-Source Software -->
 > <div align="center">
->   <h2>
+>   <h1>
 >     <div style="display: inline-block;">
 >       <span style="vertical-align: middle;">⒈ Open-Source Projects</span>
 >       <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/code-fork.png"
 >         style="vertical-align: middle;" alt="code-fork" />
 >     </div>
->   </h2>
+>   </h1>
 >   <table>
 >     <tr>
 >       <td align="center">Project</td>
@@ -115,13 +115,13 @@
 > 
 > <!-- Github Usage Statistics -->
 > <div align="center">
->     <h2>
+>     <h1>
 >         <div style="display: inline-block;">
 >             <span style="display: inline-block;">⒉ GitHub Overview</span>
 >             <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/github.png"
 >                 style="vertical-align: middle;" alt="github" />
 >         </div>
->     </h2>
+>     </h1>
 >     <table>
 >         <tr>
 >             <td align="center">
@@ -153,12 +153,12 @@
 > 
 > <!-- Interests, Studies, and Skills -->
 > <div align="center">
->  <h2>
+>  <h1>
 >    <div style="display: inline-block;">
 >      <span style="vertical-align: middle;">⒊ Additional Interests & Skills</span>
 >        <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book-and-pencil.png" style="vertical-align: middle;" alt="book-and-pencil" />
 >     </div>
->  </h2>
+>  </h1>
 >     <table>
 >         <tr>
 >             <td style="padding-right: 100px;">

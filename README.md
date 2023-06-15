@@ -1,20 +1,31 @@
 <!-- Header -->
 <div align="center">
     <h1>
-        🌊 🌴 🏰 🏎️💨
+        🌊&nbsp;&nbsp;
+        🌴&nbsp;&nbsp;
+        🏰&nbsp;&nbsp;
+        🏎️&nbsp;💨&nbsp;&nbsp;
     </h1>
     <h2>
-        👋🙋‍♀️🙋🙋‍♂️&nbsp;&nbsp;&nbsp;
+        🛫&nbsp;&nbsp;
+        🙋‍♀️&nbsp;&nbsp;
+        🙋&nbsp;&nbsp;
+        🙋‍♂️&nbsp;&nbsp;&nbsp;&nbsp;
         Welcome Back!
-        &nbsp;&nbsp;&nbsp;
-        🌍🌏🌎
+        &nbsp;&nbsp;&nbsp;&nbsp;
+        🌍&nbsp;&nbsp;
+        🌏&nbsp;&nbsp;
+        🌎&nbsp;&nbsp;
+        🛬&nbsp;&nbsp;
     </h2>
     <h4>
         <i>📍 Data Engineer</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
-        <i>🗺 Open-Source Explorer</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
-        <i>🤖 AI Curious</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
+        <i>🗺 Open-Source Contributor</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
+        <i>🤖 AGI Curious</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
+        <br><br>
+        <i>🏁 Motorsports Enjoyer</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
+        <i>🎧 Progressive House Fan</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
         <i>🍣 Seafood Consumer</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
-        <i>🏁 Motorsports Enjoyer</i>
         </td>
 </div>
 <hr>

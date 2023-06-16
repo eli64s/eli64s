@@ -96,6 +96,37 @@
 >         </a>
 >       </td>
 >     </tr>
+> <tr>
+>   <td align="center">
+>     <a href="https://github.com/eli64s/flink-flow" style="display: flex; align-items: center;">
+>       <strong>flink-flow</strong>
+>     </a>
+>   </td>
+>   <td align="center">
+>     <a href="https://github.com/eli64s/flink-flow">
+>       <img src="https://img.shields.io/github/stars/eli64s/flink-flow?style=social&color=4F7DB3"
+>         alt="flink-flow Stars" height="20">
+>     </a>
+>   </td>
+>   <td align="center">
+>     <a href="https://github.com/eli64s/flink-flow">
+>       <img src="https://img.shields.io/github/forks/eli64s/flink-flow?style=social&color=4F7DB3"
+>         alt="flink-flow Forks" height="20">
+>     </a>
+>   </td>
+>   <td align="center">
+>     <a href="https://github.com/eli64s/flink-flow">
+>       <img src="https://img.shields.io/github/last-commit/eli64s/flink-flow?style=social&color=4F7DB3"
+>         alt="flink-flow Last Commit" height="20">
+>     </a>
+>   </td>
+>       <td align="center">
+>         <a href="https://github.com/eli64s/flink-flow">
+>           <img src="https://img.shields.io/github/commit-activity/y/eli64s/flink-flow?style=social&color=4F7DB3"
+>             alt="flink-flow Total Commits" height="20">
+>         </a>
+>       </td>
+>     </tr>
 >   </table>
 > </div>
 > <br>

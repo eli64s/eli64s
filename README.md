@@ -36,63 +36,63 @@
 >     </tr>
 >     <tr>
 >       <td align="center">
->         <a href="https://github.com/eli64s/README-AI" style="display: flex; align-items: center;">
->           <strong>README-AI</strong>
+>         <a href="https://github.com/eli64s/readme-ai" style="display: flex; align-items: center;">
+>           <strong>readme-ai</strong>
 >         </a>
 >       </td>
 >       <td align="center">
->         <a href="https://github.com/eli64s/README-AI">
->           <img src="https://img.shields.io/github/stars/eli64s/README-AI?style=social&color=4F7DB3"
->             alt="README-AI Stars" height="20">
+>         <a href="https://github.com/eli64s/readme-ai">
+>           <img src="https://img.shields.io/github/stars/eli64s/readme-ai?style=social&color=4F7DB3"
+>             alt="readme-ai Stars" height="20">
 >         </a>
 >       </td>
 >       <td align="center">
->         <a href="https://github.com/eli64s/README-AI">
->           <img src="https://img.shields.io/github/forks/eli64s/README-AI?style=social&color=4F7DB3"
->             alt="README-AI Forks" height="20">
+>         <a href="https://github.com/eli64s/readme-ai">
+>           <img src="https://img.shields.io/github/forks/eli64s/readme-ai?style=social&color=4F7DB3"
+>             alt="readme-ai Forks" height="20">
 >         </a>
 >       </td>
 >       <td align="center">
->         <a href="https://github.com/eli64s/README-AI">
->           <img src="https://img.shields.io/github/commit-activity/y/eli64s/README-AI?style=social&color=4F7DB3"
->             alt="README-AI Total Commits" height="20">
+>         <a href="https://github.com/eli64s/readme-ai">
+>           <img src="https://img.shields.io/github/commit-activity/y/eli64s/readme-ai?style=social&color=4F7DB3"
+>             alt="readme-ai Total Commits" height="20">
 >         </a>
 >       </td>
 >       <td align="center">
->         <a href="https://github.com/eli64s/README-AI">
->           <img src="https://img.shields.io/github/last-commit/eli64s/README-AI?style=social&color=4F7DB3"
->             alt="README-AI Last Commit" height="20">
+>         <a href="https://github.com/eli64s/readme-ai">
+>           <img src="https://img.shields.io/github/last-commit/eli64s/readme-ai?style=social&color=4F7DB3"
+>             alt="readme-ai Last Commit" height="20">
 >         </a>
 >       </td>
 >     </tr>
 >     <tr>
 >       <td align="center">
->         <a href="https://github.com/eli64s/PyAutoBash" style="display: flex; align-items: center;">
->           <strong>PyAutoBash</strong>
+>         <a href="https://github.com/eli64s/pyauto-bash" style="display: flex; align-items: center;">
+>           <strong>pyauto-bash</strong>
 >         </a>
 >       </td>
 >       <td align="center">
->         <a href="https://github.com/eli64s/PyAutoBash">
->           <img src="https://img.shields.io/github/stars/eli64s/PyAutoBash?style=social&color=4F7DB3"
->             alt="PyAutoBash Stars" height="20">
+>         <a href="https://github.com/eli64s/pyauto-bash">
+>           <img src="https://img.shields.io/github/stars/eli64s/pyauto-bash?style=social&color=4F7DB3"
+>             alt="pyauto-bash Stars" height="20">
 >         </a>
 >       </td>
 >       <td align="center">
->         <a href="https://github.com/eli64s/PyAutoBash">
->           <img src="https://img.shields.io/github/forks/eli64s/PyAutoBash?style=social&color=4F7DB3"
->             alt="PyAutoBash Forks" height="20">
+>         <a href="https://github.com/eli64s/pyauto-bash">
+>           <img src="https://img.shields.io/github/forks/eli64s/pyauto-bash?style=social&color=4F7DB3"
+>             alt="pyauto-bash Forks" height="20">
 >         </a>
 >       </td>
 >       <td align="center">
->         <a href="https://github.com/eli64s/PyAutoBash">
->           <img src="https://img.shields.io/github/last-commit/eli64s/PyAutoBash?style=social&color=4F7DB3"
->             alt="PyAutoBash Last Commit" height="20">
+>         <a href="https://github.com/eli64s/pyauto-bash">
+>           <img src="https://img.shields.io/github/last-commit/eli64s/pyauto-bash?style=social&color=4F7DB3"
+>             alt="pyauto-bash Last Commit" height="20">
 >         </a>
 >       </td>
 >       <td align="center">
->         <a href="https://github.com/eli64s/PyAutoBash">
->           <img src="https://img.shields.io/github/commit-activity/y/eli64s/PyAutoBash?style=social&color=4F7DB3"
->             alt="PyAutoBash Total Commits" height="20">
+>         <a href="https://github.com/eli64s/pyauto-bash">
+>           <img src="https://img.shields.io/github/commit-activity/y/eli64s/pyauto-bash?style=social&color=4F7DB3"
+>             alt="pyauto-bash Total Commits" height="20">
 >         </a>
 >       </td>
 >     </tr>

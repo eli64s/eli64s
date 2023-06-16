@@ -1,24 +1,19 @@
 <!-- Header -->
 > <div align="center">
->     <h2>
+>     <h1>
 >         🌊&nbsp;
 >         🌴&nbsp;
 >         🏰&nbsp;
 >         🏎️💨&nbsp;
->         &nbsp;&nbsp;Welcome Back!&nbsp;&nbsp;
+>         <br><br>
+>         Welcome Back!
+>         <br><br>
 >         🛫&nbsp;
 >         🌍&nbsp;
 >         🌏&nbsp;
 >         🌎&nbsp;
 >         🛬&nbsp;
->     </h2>
->     <h5>
->         <i>📍 Data Engineer</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
->         <i>🗺 Open-Source</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
->         <i>🏁 Motorsports</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
->         <i>🎧 Progressive House</i>&nbsp;&nbsp;&nbsp;<strong>|</strong>&nbsp;&nbsp;&nbsp;
->         <i>🍣 Seafood</i>
->     </h5>
+>     </h1>
 > <hr>
 > <h1>👇</h1>
 >
@@ -149,7 +144,7 @@
 > <div align="center">
 >  <h2>
 >    <div style="display: inline-block;">
->      <span style="vertical-align: middle;">⒊ Additional Interests & Skills</span>
+>      <span style="vertical-align: middle;">⒊ Interests & Skills</span>
 >        <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book-and-pencil.png" style="vertical-align: middle;" alt="book-and-pencil" />
 >     </div>
 >  </h2>

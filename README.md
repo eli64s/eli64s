@@ -31,8 +31,8 @@
 >       <td align="center">Project</td>
 >       <td align="center">Stars</td>
 >       <td align="center">Forks</td>
->       <td align="center">Last Commit</td>
 >       <td align="center">Total Commits</td>
+>       <td align="center">Last Commit</td>
 >     </tr>
 >     <tr>
 >       <td align="center">

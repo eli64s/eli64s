@@ -14,8 +14,6 @@
 >         🌎&nbsp;
 >         🛬&nbsp;
 >     </h1>
-> <hr>
-> <h1>👇</h1>
 >
 > <!-- Open-Source Software -->
 > <div align="center">

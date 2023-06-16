@@ -67,32 +67,32 @@
 >     </tr>
 >     <tr>
 >       <td align="center">
->         <a href="https://github.com/eli64s/PyraShell" style="display: flex; align-items: center;">
->           <strong>PyraShell</strong>
+>         <a href="https://github.com/eli64s/PyAutoBash" style="display: flex; align-items: center;">
+>           <strong>PyAutoBash</strong>
 >         </a>
 >       </td>
 >       <td align="center">
->         <a href="https://github.com/eli64s/PyraShell">
->           <img src="https://img.shields.io/github/stars/eli64s/PyraShell?style=social&color=4F7DB3"
->             alt="PyraShell Stars" height="20">
+>         <a href="https://github.com/eli64s/PyAutoBash">
+>           <img src="https://img.shields.io/github/stars/eli64s/PyAutoBash?style=social&color=4F7DB3"
+>             alt="PyAutoBash Stars" height="20">
 >         </a>
 >       </td>
 >       <td align="center">
->         <a href="https://github.com/eli64s/PyraShell">
->           <img src="https://img.shields.io/github/forks/eli64s/PyraShell?style=social&color=4F7DB3"
->             alt="PyraShell Forks" height="20">
+>         <a href="https://github.com/eli64s/PyAutoBash">
+>           <img src="https://img.shields.io/github/forks/eli64s/PyAutoBash?style=social&color=4F7DB3"
+>             alt="PyAutoBash Forks" height="20">
 >         </a>
 >       </td>
 >       <td align="center">
->         <a href="https://github.com/eli64s/PyraShell">
->           <img src="https://img.shields.io/github/last-commit/eli64s/PyraShell?style=social&color=4F7DB3"
->             alt="PyraShell Last Commit" height="20">
+>         <a href="https://github.com/eli64s/PyAutoBash">
+>           <img src="https://img.shields.io/github/last-commit/eli64s/PyAutoBash?style=social&color=4F7DB3"
+>             alt="PyAutoBash Last Commit" height="20">
 >         </a>
 >       </td>
 >       <td align="center">
->         <a href="https://github.com/eli64s/PyraShell">
->           <img src="https://img.shields.io/github/commit-activity/y/eli64s/PyraShell?style=social&color=4F7DB3"
->             alt="PyraShell Total Commits" height="20">
+>         <a href="https://github.com/eli64s/PyAutoBash">
+>           <img src="https://img.shields.io/github/commit-activity/y/eli64s/PyAutoBash?style=social&color=4F7DB3"
+>             alt="PyAutoBash Total Commits" height="20">
 >         </a>
 >       </td>
 >     </tr>

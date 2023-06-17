@@ -6,9 +6,8 @@
   <div align="center">
     <h1>
       🌊&nbsp;🌴&nbsp;🏰&nbsp;🏎️💨&nbsp;
-      <br><br>
-      📍 Welcome Back!
     </h1>
+    <h3>📍 Data Engineer by day, open-source enjoyer by night!</h3>
   </div>
   <br>
   <div align="center">

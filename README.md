@@ -19,9 +19,9 @@
 > <div align="center">
 >   <h2>
 >     <div style="display: inline-block;">
->       <span style="vertical-align: middle;">📍 Open-Source Projects</span>
 >       <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/code-fork.png"
 >         style="vertical-align: middle;" alt="code-fork" />
+>       <span style="vertical-align: middle;">Open-Source Projects</span>
 >     </div>
 >   </h2>
 >   <table>
@@ -135,9 +135,9 @@
 > <div align="center">
 >     <h2>
 >         <div style="display: inline-block;">
->             <span style="display: inline-block;">📍 GitHub Overview</span>
 >             <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/github.png"
 >                 style="vertical-align: middle;" alt="github" />
+>             <span style="display: inline-block;">GitHub Overview</span>
 >         </div>
 >     </h2>
 >     <table>
@@ -173,38 +173,10 @@
 > <div align="center">
 >  <h2>
 >    <div style="display: inline-block;">
->      <span style="vertical-align: middle;">📍 Interests & Skills</span>
 >        <img width="64" height="64" src="https://img.icons8.com/nolan/64/1A6DFF/C822FF/book-and-pencil.png" style="vertical-align: middle;" alt="book-and-pencil" />
+>      <span style="vertical-align: middle;">Skills</span>
 >     </div>
 >  </h2>
->     <table>
->         <tr>
->             <td style="padding-right: 100px;">
->                 <table>
->                     <tr>
->                         <td align="center">
->                             Interest Areas
->                         </td>
->                     </tr>
->                     <tr>
->                         <td align="center">📚 Engineering Best Practices</td>
->                     </tr>
->                     <tr>
->                         <td align="center">⚙️ Real-Time Data Streaming</td>
->                     </tr>
->                     <tr>
->                         <td align="center">🤖 Machine Learning and AI</td>
->                     </tr>
->                     <tr>
->                         <td align="center">🧪 Testing and Debugging</td>
->                     </tr>
->                     <tr>
->                         <td align="center">🔄 Data Preprocessing</td>
->                     </tr>
->                 </table>
->             </td>
->             <td>&nbsp;&nbsp;&nbsp;&nbsp;</td> <!-- Empty cell for spacing -->
->             <td>
 >                 <table>
 >                     <tr>
 >                         <td align="center">

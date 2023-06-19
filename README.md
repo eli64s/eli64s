@@ -7,7 +7,7 @@
     <h1>
       🌊&nbsp;🌴&nbsp;🏰&nbsp;🏎️💨&nbsp;
     </h1>
-    <h3>📍 Data Engineer by day, open-source enjoyer by night!</h3>
+    <h3>📍 Data Engineer, open-source, cheers.</h3>
   </div>
   <br>
   <div align="center">

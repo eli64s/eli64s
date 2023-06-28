@@ -1,7 +1,8 @@
 <div align="center">
 
 # 🌊&nbsp;🌴&nbsp;🏰&nbsp;🏎️💨
-### 📍 Data Engineer, open-source, cheers.
+# 🛫&nbsp;🌎&nbsp;🌍&nbsp;🌏&nbsp;🛬
+### 📍 Software Engineer interested in data and open-source. Cheers!
 
 [![Repo Name](https://img.shields.io/badge/Repo-README--AI-6272a4?style=for-the-badge&labelColor=44475a)](https://github.com/eli64s/README-AI)
 [![Stars](https://custom-icon-badges.demolab.com/github/stars/eli64s/README-AI?color=6272a4&style=for-the-badge&labelColor=44475a&logo=star)](https://github.com/eli64s/README-AI?tab=repositories&sort=stargazers)

@@ -11,4 +11,26 @@
 
 </div>
 
+<!--
+<h3>Contributions</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🧪 Project</b></td>
+      <td><b>🧩 Contribution</b></td>
+    </tr>
+  </thead>
+  <tbody>
+   <tr>
+      <td><a href="https://github.com/eli64s/readme-ai"><b>readmea-ai</b></a></td>
+      <td>Maintainer</td>
+    </tr>
+    <tr>
+      <td><a href="https://cookbook.openai.com/examples/code_search"><b>openai-cookbook</b></a></td>
+      <td>Contributor</td>
+    </tr>
+  </tbody>
+</table>
+-->
+
 ---

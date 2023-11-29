@@ -28,6 +28,10 @@
             <td>Maintainer</td>
           </tr>
           <tr>
+            <td><a href="https://readmeai.streamlit.app/"><b>readme-ai-ui</b></a></td>
+            <td>Maintainer</td>
+          </tr>
+          <tr>
             <td><a href="https://github.com/eli64s/sqlmesh-test-tools"><b>sqlmesh-test-tools</b></a></td>
             <td>Maintainer</td>
           </tr>

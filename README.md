@@ -36,7 +36,7 @@
             <td>🧑‍💻 Maintainer</td>
           </tr>
           <tr>
-            <td><a href="https://cookbook.openai.com/examples/code_search_using_embeddings"><b>🤖 openai/openai-cookbook</b></a></td>
+            <td><a href="https://cookbook.openai.com/examples/code_search_using_embeddings"><b>🤖 openai-cookbook</b></a></td>
             <td>🤝 Contributor</td>
           </tr>
         </tbody>

@@ -18,7 +18,7 @@
       <table>
         <thead align="center">
           <tr style="border: none;">
-            <td><b>Project</b></td>
+            <td><b>Open-Source Projects</b></td>
             <td><b>Role</b></td>
           </tr>
         </thead>

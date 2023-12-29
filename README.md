@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌊&nbsp;🌴&nbsp;🏰&nbsp;🏎️💨&nbsp;🛫&nbsp;🌎&nbsp;🌍&nbsp;🌏&nbsp;🛬
-### 📍 I enjoy building automated tools and learning new things
+### 📍 I enjoy building automated tools and learning new things.
 
 <!--
 [![Repo Name](https://img.shields.io/badge/Repo-README--AI-6272a4?style=for-the-badge&labelColor=44475a)](https://github.com/eli64s/README-AI)
@@ -24,20 +24,20 @@
         </thead>
         <tbody>
           <tr>
-            <td><a href="https://github.com/eli64s/readme-ai"><b>readme-ai</b></a></td>
-            <td>Maintainer</td>
+            <td><a href="https://github.com/eli64s/readme-ai"><b>🚀 readme-ai</b></a></td>
+            <td>🧑‍💻 Maintainer</td>
           </tr>
           <tr>
-            <td><a href="https://readmeai.streamlit.app/"><b>readme-ai-ui</b></a></td>
-            <td>Maintainer</td>
+            <td><a href="https://readmeai.streamlit.app/"><b>🎈 readme-ai-streamlit</b></a></td>
+            <td>🧑‍💻 Maintainer</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/eli64s/sqlmesh-test-tools"><b>sqlmesh-test-tools</b></a></td>
-            <td>Maintainer</td>
+            <td><a href="https://github.com/eli64s/sqlmesh-test-tools"><b>🔢 sqlmesh-test-tools</b></a></td>
+            <td>🧑‍💻 Maintainer</td>
           </tr>
           <tr>
-            <td><a href="https://cookbook.openai.com/examples/code_search_using_embeddings"><b>openai/openai-cookbook</b></a></td>
-            <td>Contributor</td>
+            <td><a href="https://cookbook.openai.com/examples/code_search_using_embeddings"><b>🤖 openai/openai-cookbook</b></a></td>
+            <td>🤝 Contributor</td>
           </tr>
         </tbody>
       </table>

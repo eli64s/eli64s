@@ -32,10 +32,6 @@
             <td>🧑‍💻 Maintainer</td>
           </tr>
           <tr>
-            <td><a href="https://github.com/eli64s/sqlmesh-test-tools"><b>🔢 sqlmesh-test-tools</b></a></td>
-            <td>🧑‍💻 Maintainer</td>
-          </tr>
-          <tr>
             <td><a href="https://cookbook.openai.com/examples/code_search_using_embeddings"><b>🤖 openai-cookbook</b></a></td>
             <td>🤝 Contributor</td>
           </tr>

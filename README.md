@@ -1,7 +1,8 @@
 <div align="center">
 
 # 🌊&nbsp;🌴&nbsp;🏰&nbsp;🏎️💨&nbsp;🛫&nbsp;🌎&nbsp;🌍&nbsp;🌏&nbsp;🛬
-### 📍 I enjoy building automated tools and learning new things.
+### ⦿ Software Engineer that enjoys building automated tools and learning new things
+### ⦿ Interest areas include *`AI`*, *`dev tools`*, *`open-source`*, and *`best practices`*
 
 <!--
 [![Repo Name](https://img.shields.io/badge/Repo-README--AI-6272a4?style=for-the-badge&labelColor=44475a)](https://github.com/eli64s/README-AI)

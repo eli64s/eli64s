@@ -3,7 +3,7 @@
 # 🌊&nbsp;🌴&nbsp;🏰&nbsp;🏎️💨&nbsp;🛫&nbsp;🌎&nbsp;🌍&nbsp;🌏&nbsp;🛬
 #### ⦿ Software Engineer who enjoys building automated tools and learning new things
 #### ⦿ Interest areas include ai, dev tools, open-source, and engineering best practices
-#### ⦿ *It's AI as long as it doesn't work well. It's computer science when it does work well :)*
+#### ⦿ *It's AI as long as it doesn't work well. It's Computer Science when it works well :)*
 
 <!--
 [![Repo Name](https://img.shields.io/badge/Repo-README--AI-6272a4?style=for-the-badge&labelColor=44475a)](https://github.com/eli64s/README-AI)

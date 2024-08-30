@@ -3,6 +3,7 @@
 # 🌊&nbsp;🌴&nbsp;🏰&nbsp;🏎️💨&nbsp;🛫&nbsp;🌎&nbsp;🌍&nbsp;🌏&nbsp;🛬
 #### ⦿ Software Engineer who enjoys building automated tools and learning new things
 #### ⦿ Interest areas include ai, dev tools, open-source, and engineering best practices
+#### ⦿ *It's AI as long as it doesn't work well. It's computer science when it does work well :)*
 
 <!--
 [![Repo Name](https://img.shields.io/badge/Repo-README--AI-6272a4?style=for-the-badge&labelColor=44475a)](https://github.com/eli64s/README-AI)
@@ -25,11 +26,11 @@
         </thead>
         <tbody>
           <tr>
-            <td><a href="https://github.com/eli64s/readme-ai"><b>🚀 readme-ai</b></a></td>
+            <td><a href="https://github.com/eli64s/readme-ai"><b>👾 readme-ai</b></a></td>
             <td>🧑‍💻 Maintainer</td>
           </tr>
           <tr>
-            <td><a href="https://readmeai.streamlit.app/"><b>🎈 readme-ai-streamlit</b></a></td>
+            <td><a href="https://readme-ai.streamlit.app/"><b>🎈 readme-ai-streamlit</b></a></td>
             <td>🧑‍💻 Maintainer</td>
           </tr>
           <tr>

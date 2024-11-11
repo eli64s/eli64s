@@ -8,4 +8,4 @@
     src="https://raw.githubusercontent.com/eli64s/eli64s/9162b84ba2f115c3d9488f60e8be5e10a2e9ac3d/banner.svg" 
     width="100%">
   </picture>
-</div>  
+</div>

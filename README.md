@@ -1,11 +1,11 @@
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/eli64s/eli64s/9162b84ba2f115c3d9488f60e8be5e10a2e9ac3d/banner.svg">
+    srcset="https://raw.githubusercontent.com/eli64s/eli64s/b605f837433a26010f4ebda2853ce4f89ae0986b/banner.svg">
     <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/eli64s/eli64s/9162b84ba2f115c3d9488f60e8be5e10a2e9ac3d/banner.svg">
+    srcset="https://raw.githubusercontent.com/eli64s/eli64s/b605f837433a26010f4ebda2853ce4f89ae0986b/banner.svg">
     <img alt="Profile Header" 
-    src="https://raw.githubusercontent.com/eli64s/eli64s/9162b84ba2f115c3d9488f60e8be5e10a2e9ac3d/banner.svg" 
+    src="https://raw.githubusercontent.com/eli64s/eli64s/b605f837433a26010f4ebda2853ce4f89ae0986b/banner.svg" 
     width="100%">
   </picture>
 </div>

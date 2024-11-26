@@ -1,0 +1,167 @@
+<svg width="1000" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <!-- Light Cosmic Gradient -->
+        <!--<linearGradient id="lightCosmicGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#B2F5FF">
+                <animate attributeName="stop-color" 
+                        values="#B2F5FF;#C5A8F2;#B2F5FF" 
+                        dur="10s" 
+                        repeatCount="indefinite"/>
+            </stop>
+            <stop offset="50%" style="stop-color:#C5A8F2"/>
+            <stop offset="100%" style="stop-color:#FFB2FF">
+                <animate attributeName="stop-color" 
+                        values="#FFB2FF;#C5A8F2;#FFB2FF" 
+                        dur="10s" 
+                        repeatCount="indefinite"/>
+            </stop>
+        </linearGradient>-->
+        <linearGradient id="lightCosmicGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#00E5FF">
+                <animate attributeName="stop-color" 
+                        values="#00E5FF;#7934C5;#00E5FF" 
+                        dur="10s" 
+                        repeatCount="indefinite"/>
+            </stop>
+            <stop offset="50%" style="stop-color:#7934C5"/>
+            <stop offset="100%" style="stop-color:#FF00FF">
+                <animate attributeName="stop-color" 
+                        values="#FF00FF;#7934C5;#FF00FF" 
+                        dur="10s" 
+                        repeatCount="indefinite"/>
+            </stop>
+        </linearGradient>
+        <!-- Ethereal Energy Field -->
+        <radialGradient id="lightEnergyField" cx="50%" cy="50%" r="50%">
+            <stop offset="0%" style="stop-color:#E6FBFF;stop-opacity:0.4"/>
+            <stop offset="100%" style="stop-color:#FFF0FF;stop-opacity:0.1"/>
+        </radialGradient>
+
+        <!-- Soft Glow Effect -->
+        <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+            <feGaussianBlur stdDeviation="4" result="glow"/>
+            <feComposite operator="over" in="glow" in2="SourceGraphic"/>
+            <feDropShadow dx="0" dy="0" stdDeviation="8" flood-color="#B2F5FF" flood-opacity="0.3"/>
+        </filter>
+
+        <!-- Subtle Texture -->
+        <pattern id="dotTexture" x="0" y="0" width="10" height="10" patternUnits="userSpaceOnUse">
+            <circle cx="5" cy="5" r="1" fill="url(#lightCosmicGradient)" opacity="0.1"/>
+        </pattern>
+    </defs>
+
+    <!-- Background with ethereal field -->
+    <rect width="1200" height="320" fill="#FFFFFF"/>
+    <rect width="1200" height="320" fill="url(#lightEnergyField)"/>
+    <rect width="1200" height="320" fill="url(#dotTexture)"/>
+
+    <!-- Sacred Geometry Pattern Group -->
+    <g transform="translate(800, 160)" filter="url(#softGlow)">
+        <!-- Base circles with quantum field -->
+        <g>
+            <!-- Central power core -->
+            <circle cx="0" cy="0" r="20" fill="url(#lightCosmicGradient)">
+                <animate attributeName="r" 
+                         values="20;25;20" 
+                         dur="3s" 
+                         repeatCount="indefinite"/>
+            </circle>
+            
+            <!-- Quantum field rings -->
+            <circle cx="0" cy="0" r="40" fill="none" stroke="url(#lightCosmicGradient)" stroke-width="2" stroke-dasharray="4 8">
+                <animate attributeName="stroke-dashoffset" 
+                         values="0;100" 
+                         dur="10s" 
+                         repeatCount="indefinite"/>
+            </circle>
+
+            <!-- First ring of circles with rotation -->
+            <g>
+                <animateTransform attributeName="transform"
+                                 type="rotate"
+                                 from="0 0 0"
+                                 to="360 0 0"
+                                 dur="30s"
+                                 repeatCount="indefinite"/>
+                
+                <circle cx="0" cy="-80" r="40" fill="none" stroke="url(#lightCosmicGradient)" stroke-width="2"/>
+                <circle cx="69.28" cy="-40" r="40" fill="none" stroke="url(#lightCosmicGradient)" stroke-width="2"/>
+                <circle cx="69.28" cy="40" r="40" fill="none" stroke="url(#lightCosmicGradient)" stroke-width="2"/>
+                <circle cx="0" cy="80" r="40" fill="none" stroke="url(#lightCosmicGradient)" stroke-width="2"/>
+                <circle cx="-69.28" cy="40" r="40" fill="none" stroke="url(#lightCosmicGradient)" stroke-width="2"/>
+                <circle cx="-69.28" cy="-40" r="40" fill="none" stroke="url(#lightCosmicGradient)" stroke-width="2"/>
+            </g>
+
+            <!-- Second ring with counter-rotation -->
+            <g>
+                <animateTransform attributeName="transform"
+                                 type="rotate"
+                                 from="360 0 0"
+                                 to="0 0 0"
+                                 dur="20s"
+                                 repeatCount="indefinite"/>
+                
+                <!-- Outer quantum circles -->
+                <circle cx="0" cy="-120" r="40" fill="none" stroke="url(#lightCosmicGradient)" stroke-width="1.5" stroke-dasharray="10 5"/>
+                <circle cx="104" cy="-60" r="40" fill="none" stroke="url(#lightCosmicGradient)" stroke-width="1.5" stroke-dasharray="10 5"/>
+                <circle cx="104" cy="60" r="40" fill="none" stroke="url(#lightCosmicGradient)" stroke-width="1.5" stroke-dasharray="10 5"/>
+                <circle cx="0" cy="120" r="40" fill="none" stroke="url(#lightCosmicGradient)" stroke-width="1.5" stroke-dasharray="10 5"/>
+                <circle cx="-104" cy="60" r="40" fill="none" stroke="url(#lightCosmicGradient)" stroke-width="1.5" stroke-dasharray="10 5"/>
+                <circle cx="-104" cy="-60" r="40" fill="none" stroke="url(#lightCosmicGradient)" stroke-width="1.5" stroke-dasharray="10 5"/>
+            </g>
+        </g>
+
+        <!-- Energy nodes with pulsing effect -->
+        <g>
+            <circle cx="0" cy="-40" r="4" fill="url(#lightCosmicGradient)">
+                <animate attributeName="r" values="3;6;3" dur="2s" repeatCount="indefinite"/>
+                <animate attributeName="opacity" values="1;0.5;1" dur="2s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="34.64" cy="-20" r="4" fill="url(#lightCosmicGradient)">
+                <animate attributeName="r" values="3;6;3" dur="2s" begin="0.3s" repeatCount="indefinite"/>
+                <animate attributeName="opacity" values="1;0.5;1" dur="2s" begin="0.3s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="34.64" cy="20" r="4" fill="url(#lightCosmicGradient)">
+                <animate attributeName="r" values="3;6;3" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+                <animate attributeName="opacity" values="1;0.5;1" dur="2s" begin="0.6s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="0" cy="40" r="4" fill="url(#lightCosmicGradient)">
+                <animate attributeName="r" values="3;6;3" dur="2s" begin="0.9s" repeatCount="indefinite"/>
+                <animate attributeName="opacity" values="1;0.5;1" dur="2s" begin="0.9s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="-34.64" cy="20" r="4" fill="url(#lightCosmicGradient)">
+                <animate attributeName="r" values="3;6;3" dur="2s" begin="1.2s" repeatCount="indefinite"/>
+                <animate attributeName="opacity" values="1;0.5;1" dur="2s" begin="1.2s" repeatCount="indefinite"/>
+            </circle>
+            <circle cx="-34.64" cy="-20" r="4" fill="url(#lightCosmicGradient)">
+                <animate attributeName="r" values="3;6;3" dur="2s" begin="1.5s" repeatCount="indefinite"/>
+                <animate attributeName="opacity" values="1;0.5;1" dur="2s" begin="1.5s" repeatCount="indefinite"/>
+            </circle>
+        </g>
+    </g>
+
+    <!-- Text Content with Soft Glow -->
+    <g transform="translate(40, 80)">
+        <text font-family="Arial, sans-serif" font-size="48" fill="url(#lightCosmicGradient)" font-weight="bold" filter="url(#softGlow)">
+            Software Engineer
+            <animate attributeName="opacity" values="0.8;1;0.8" dur="3s" repeatCount="indefinite"/>
+        </text>
+        <g transform="translate(0, 60)">
+            <text font-family="Arial, sans-serif" font-size="24" fill="url(#lightCosmicGradient)" opacity="0.9">
+                <tspan x="0" dy="0">☉ Building AI tools for developers</tspan>
+                <tspan x="0" dy="40">☉ Learning and exploring the unknown</tspan>
+                <tspan x="0" dy="40">☉ Keep building, the best is yet to come</tspan>
+            </text>
+        </g>
+    </g>
+
+    <!-- Ethereal connecting lines -->
+    <g stroke="url(#lightCosmicGradient)" stroke-width="1.5" opacity="0.6">
+        <line x1="40" y1="160" x2="700" y2="160" stroke-dasharray="10 5">
+            <animate attributeName="stroke-dashoffset" 
+                     values="0;100" 
+                     dur="10s" 
+                     repeatCount="indefinite"/>
+        </line>
+    </g>
+</svg>

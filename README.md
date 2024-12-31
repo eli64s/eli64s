@@ -18,7 +18,7 @@ I’m **Eli**, a **Software Engineer** with a passion for automation. My interes
   <img src="https://raw.githubusercontent.com/eli64s/eli64s/d866f2bb05b0fb1ade80d7b97524fa351fa58050/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
 </div>
 
-### 🔹 Career and Personal Development
+### 🔷 Career
 
 - **AI Software Engineer** @ Capital One | _Present_
 - **Data Engineering** @United Airlines @GM
@@ -29,11 +29,23 @@ I’m **Eli**, a **Software Engineer** with a passion for automation. My interes
   <img src="https://raw.githubusercontent.com/eli64s/eli64s/d866f2bb05b0fb1ade80d7b97524fa351fa58050/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
 </div>
 
-### 🔵 Let’s Connect!  
+### 🔵 Connect!
 
-- [email](mailto:egsalamie@gmail.com)  
-- [linkedin](https://www.linkedin.com/in/salamieeli/)
-- [x](https://x.com/zerox_eli)
+<div align="left">
+  <p style="display: flex; align-items: left; justify-content: left; gap: 15px;">
+    <a href="mailto:egsalamie@gmail.com" style="display: flex; align-items: center;">
+      &nbsp;&nbsp;⦿&nbsp;<img src="https://www.svgrepo.com/show/46214/email.svg" width="25px" alt="Email" style="margin-left: 8px" />
+    </a>
+    <!-- <br> -->
+    <a href="https://www.linkedin.com/in/salamieeli/" style="display: flex; align-items: center;">
+      &nbsp;&nbsp;⦿&nbsp;<img src="https://www.svgrepo.com/show/494209/linkedin.svg" width="25px" alt="LinkedIn" style="margin-left: 8px" />
+    </a>
+    <!-- <br> -->
+    <a href="https://x.com/zerox_eli" style="display: flex; align-items: center;">
+      &nbsp;&nbsp;⦿&nbsp;<img src="https://simpleicons.org/icons/x.svg" width="25px" alt="X" style="margin-left: 8px" />
+    </a>
+  </p>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/eli64s/eli64s/d866f2bb05b0fb1ade80d7b97524fa351fa58050/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
@@ -44,6 +56,10 @@ I’m **Eli**, a **Software Engineer** with a passion for automation. My interes
 [splitme-ai]: https://github.com/eli64s/splitme-ai
 [openai-cookbook]: https://cookbook.openai.com/examples/code_search_using_embeddings
 
+<!-- CONTACT ICONS -->
+[gmail]: https://simpleicons.org/icons/gmail.svg
+[linkedin]: https://www.svgrepo.com/show/494209/linkedin.svg
+[x]: https://simpleicons.org/icons/x.svg
 
 <!-- 
 <div align="center">

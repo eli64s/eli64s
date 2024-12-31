@@ -4,11 +4,19 @@ I’m **Eli**, a **Software Engineer** with a passion for automation. My interes
 
 [![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=eli64s)](https://github.com/anuraghazra/github-readme-stats)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/eli64s/eli64s/d866f2bb05b0fb1ade80d7b97524fa351fa58050/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
+</div>
+
 ### 💠 Open-Source
 
 - Creator of [readme-ai]
 - Creator of [splitme-ai]
 - Contributor to [OpenAI Cookbook][openai-cookbook]
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/eli64s/eli64s/d866f2bb05b0fb1ade80d7b97524fa351fa58050/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
+</div>
 
 ### 🔹 Career and Personal Development
 
@@ -17,6 +25,10 @@ I’m **Eli**, a **Software Engineer** with a passion for automation. My interes
 - **M.S. in Computer and Information Science** @ University of Pennsylvania
 - **B.S. in Industrial Engineering** @ Purdue University
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/eli64s/eli64s/d866f2bb05b0fb1ade80d7b97524fa351fa58050/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
+</div>
+
 ### 🔵 Let’s Connect!  
 
 - [email](mailto:egsalamie@gmail.com)  
@@ -24,7 +36,7 @@ I’m **Eli**, a **Software Engineer** with a passion for automation. My interes
 - [x](https://x.com/zerox_eli)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eli64s/eli64s/d866f2bb05b0fb1ade80d7b97524fa351fa58050/assets/svg/line.svg" alt="separator" width="100%" height="2.5px" style="margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/eli64s/eli64s/d866f2bb05b0fb1ade80d7b97524fa351fa58050/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
 </div>
 
 <!-- REFERENCE LINKS -->

@@ -17,20 +17,21 @@ I’m **Eli**, a **Software Engineer** with a passion for automation. My interes
 - **M.S. in Computer and Information Science** @ University of Pennsylvania
 - **B.S. in Industrial Engineering** @ Purdue University
 
-## 🔵 Let’s Connect!  
+### 🔵 Let’s Connect!  
 
 - [email](mailto:egsalamie@gmail.com)  
 - [linkedin](https://www.linkedin.com/in/salamieeli/)
 - [x](https://x.com/zerox_eli)
 
 <div align="center">
-  <img src="/assets/svg/line.svg" alt="separator" width="100%" height="2.5px" style="margin: 20px 0;">
+  <img src="https://raw.githubusercontent.com/eli64s/eli64s/d866f2bb05b0fb1ade80d7b97524fa351fa58050/assets/svg/line.svg" alt="separator" width="100%" height="2.5px" style="margin: 20px 0;">
 </div>
 
 <!-- REFERENCE LINKS -->
 [readme-ai]: https://github.com/eli64s/readme-ai
 [splitme-ai]: https://github.com/eli64s/splitme-ai
 [openai-cookbook]: https://cookbook.openai.com/examples/code_search_using_embeddings
+
 
 <!-- 
 <div align="center">

@@ -1,8 +1,8 @@
 ### 🌀 Whats up?
 
-I’m **Eli**, a **Software Engineer** with a passion for automation. My interest areas include **AI-powered developer tools**, **retrieval-augmented generation (RAG)** systems, **open-source software**, and **learning best engineering practices**.
+Hi, I’m Eli, a __Software Engineer__ with a passion for automation. My interests include __AI/ML infrastructure__, __developer tools__, __open-source__, and learning __engineering best practices__. Cheers!
 
-[![Eli's GitHub stats](https://github-readme-stats.vercel.app/api?username=eli64s)](https://github.com/anuraghazra/github-readme-stats)
+[![Eli's GitHub Stats](https://github-readme-stats.vercel.app/api?username=eli64s)](https://github.com/anuraghazra/github-readme-stats)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/eli64s/eli64s/d866f2bb05b0fb1ade80d7b97524fa351fa58050/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
@@ -10,9 +10,9 @@ I’m **Eli**, a **Software Engineer** with a passion for automation. My interes
 
 ### 💠 Open-Source
 
-- Creator of [readme-ai]
-- Creator of [splitme-ai]
-- Contributor to [OpenAI Cookbook][openai-cookbook]
+- Creator of [readme-ai], a README file generator, powered by AI.
+- Creator of [splitme-ai], a Markdown splitter for modular and flexible documentation.
+- Contributor to the [OpenAI Cookbook][openai-cookbook] __Code search using embeddings__ notebook.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/eli64s/eli64s/d866f2bb05b0fb1ade80d7b97524fa351fa58050/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
@@ -20,9 +20,9 @@ I’m **Eli**, a **Software Engineer** with a passion for automation. My interes
 
 ### 🔷 Career
 
-- **AI Software Engineer** @ Capital One | _Present_
+- **AI Engineer** @ Capital One | _Present_
 - **Data Engineering** @United Airlines @GM
-- **M.S. in Computer and Information Science** @ University of Pennsylvania
+- **M.S. in Computer Science** @ University of Pennsylvania
 - **B.S. in Industrial Engineering** @ Purdue University
 
 <div align="center">

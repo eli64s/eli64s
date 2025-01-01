@@ -1,6 +1,6 @@
 ### 🌀 What's Up?
 
-Hi, I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI/ML infrastructure**, **developer tools**, and **open-source**. Cheers :sparkles:
+Hi, I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI/ML infrastructure**, **developer tools**, and **open-source**. Cheers!
 
 [![Eli's GitHub Stats][github-readme-stats-vercel-app]][github-readme-stats]
 

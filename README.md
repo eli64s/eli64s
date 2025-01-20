@@ -1,24 +1,25 @@
-### 🌀 What's up?
+### ✧ What's Up?
 
 I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI infrastructure**, **dev tools**, and **open-source**. Cheers!
 
 [![Eli's GitHub Stats][github-readme-stats-vercel-app]][github-readme-stats]
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eli64s/eli64s/d866f2bb05b0fb1ade80d7b97524fa351fa58050/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
+  <img src="/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
 </div>
 
-### 💠 Open-Source
+### ◆ Recent Projects
 
 - **[ReadmeAI][readme-ai]**: Automated README file generator, powered by AI.
 - **[Splitme][splitme]**: Toolkit for transforming, validating, and managing Markdown documentation.
 - **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's _Code Search Using Embeddings_ notebook.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eli64s/eli64s/d866f2bb05b0fb1ade80d7b97524fa351fa58050/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
+  <img src="/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
 </div>
 
-### 🔷 Career
+<!-- 
+### 🔷 Professional Experience
 
 - **Software Engineering, AI** @Capital One | _Present_
 - **Data Engineering** @United Airlines @GM
@@ -26,17 +27,20 @@ I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI 
 - **B.S. in Industrial Engineering** @Purdue University
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eli64s/eli64s/d866f2bb05b0fb1ade80d7b97524fa351fa58050/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
+  <img src="/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
 </div>
 
 ### 🔵 Connect
+-->
+
+### ▽ Let's Connect
 
 [<img src="https://www.svgrepo.com/show/46214/email.svg" width="25"/>][gmail]&emsp;
 [<img src="https://www.svgrepo.com/show/494209/linkedin.svg" width="25"/>][linkedin]&emsp;
 [<img src="https://simpleicons.org/icons/x.svg" width="25"/>][x]&emsp;
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/eli64s/eli64s/d866f2bb05b0fb1ade80d7b97524fa351fa58050/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
+  <img src="/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
 </div>
 
 <!-- REFERENCE LINKS -->

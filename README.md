@@ -46,7 +46,7 @@ I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI 
 
 <!-- OPEN SOURCE -->
 [readme-ai]: https://github.com/eli64s/readme-ai
-[splitme]: https://github.com/eli64s/splitme-ai
+[splitme]: https://github.com/eli64s/splitme
 [openai-cookbook]: https://cookbook.openai.com/examples/code_search_using_embeddings
 
 <!-- CONTACT -->

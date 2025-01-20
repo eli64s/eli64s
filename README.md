@@ -8,7 +8,7 @@ I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI 
   <img src="/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
 </div>
 
-### ◆ Recent Projects
+### ◆ What I Work On
 
 - **[ReadmeAI][readme-ai]**: Automated README file generator, powered by AI.
 - **[Splitme][splitme]**: Toolkit for transforming, validating, and managing Markdown documentation.

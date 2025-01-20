@@ -1,6 +1,6 @@
-### 🌀 What's Up?
+### 🌀 What's up?
 
-Hi, I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI/ML infrastructure**, **developer tools**, and **open-source**. Cheers!
+I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI infrastructure**, **dev tools**, and **open-source**. Cheers!
 
 [![Eli's GitHub Stats][github-readme-stats-vercel-app]][github-readme-stats]
 
@@ -10,8 +10,8 @@ Hi, I’m **Eli**—a **Software Engineer** with a passion for **automation**, *
 
 ### 💠 Open-Source
 
-- **[README-AI]**: Automated README file generator, powered by AI.
-- **[SPLITME-AI]**: A Markdown splitter designed for modular and flexible documentation workflows.
+- **[ReadmeAI][readme-ai]**: Automated README file generator, powered by AI.
+- **[Splitme][splitme]**: Toolkit for transforming, validating, and managing Markdown documentation.
 - **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's _Code Search Using Embeddings_ notebook.
 
 <div align="center">
@@ -20,16 +20,16 @@ Hi, I’m **Eli**—a **Software Engineer** with a passion for **automation**, *
 
 ### 🔷 Career
 
-- **AI Engineer** @ Capital One | _Present_
+- **Software Engineering, AI** @Capital One | _Present_
 - **Data Engineering** @United Airlines @GM
-- **M.S. in Computer Science** @ University of Pennsylvania
-- **B.S. in Industrial Engineering** @ Purdue University
+- **M.S. in Computer Science** @University of Pennsylvania
+- **B.S. in Industrial Engineering** @Purdue University
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/eli64s/eli64s/d866f2bb05b0fb1ade80d7b97524fa351fa58050/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
 </div>
 
-### 🔵 Connect!
+### 🔵 Connect
 
 [<img src="https://www.svgrepo.com/show/46214/email.svg" width="25"/>][gmail]&emsp;
 [<img src="https://www.svgrepo.com/show/494209/linkedin.svg" width="25"/>][linkedin]&emsp;
@@ -46,7 +46,7 @@ Hi, I’m **Eli**—a **Software Engineer** with a passion for **automation**, *
 
 <!-- OPEN SOURCE -->
 [readme-ai]: https://github.com/eli64s/readme-ai
-[splitme-ai]: https://github.com/eli64s/splitme-ai
+[splitme]: https://github.com/eli64s/splitme-ai
 [openai-cookbook]: https://cookbook.openai.com/examples/code_search_using_embeddings
 
 <!-- CONTACT -->

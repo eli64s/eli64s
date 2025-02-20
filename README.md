@@ -11,7 +11,7 @@ I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI 
 ### ◆ What I Work On
 
 - **[ReadmeAI][readme-ai]**: Automated README file generator, powered by AI.
-- **[Splitme][splitme]**: Toolkit for transforming, validating, and managing Markdown documentation.
+- **[Markitecture][markitecture]**: Tools for modular documentation workflows and content management.
 - **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's _Code Search Using Embeddings_ notebook.
 
 <div align="center">
@@ -50,7 +50,7 @@ I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI 
 
 <!-- OPEN SOURCE -->
 [readme-ai]: https://github.com/eli64s/readme-ai
-[splitme]: https://github.com/eli64s/splitme
+[markitecture]: https://github.com/eli64s/markitecture
 [openai-cookbook]: https://cookbook.openai.com/examples/code_search_using_embeddings
 
 <!-- CONTACT -->

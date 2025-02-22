@@ -1,4 +1,4 @@
-### ✧ What's Up?
+### 𖣠 What's Up?
 
 I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI infrastructure**, **dev tools**, and **open-source**. Cheers!
 
@@ -8,7 +8,7 @@ I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI 
   <img src="/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
 </div>
 
-### ◆ Open Source Projects
+### 𖣠 Open Source Projects
 
 - **[ReadmeAI][readme-ai]**: Automated README file generator, powered by AI.
 - **[Markitecture][markitecture]**: Tools for modular documentation workflows and content management.
@@ -33,7 +33,7 @@ I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI 
 ### 🔵 Connect
 -->
 
-### ▽ Let's Connect
+### 𖣠 Let's Connect
 
 [<img src="https://www.svgrepo.com/show/46214/email.svg" width="25"/>][gmail]&emsp;
 [<img src="https://www.svgrepo.com/show/494209/linkedin.svg" width="25"/>][linkedin]&emsp;

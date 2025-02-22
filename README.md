@@ -12,7 +12,7 @@ I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI 
 
 - **[ReadmeAI][readme-ai]**: Automated README file generator, powered by AI.
 - **[Markitecture][markitecture]**: Tools for modular documentation workflows and content management.
-- **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's [Code Search Using Embeddings][openai-cookbook] guide.s
+- **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's [Code Search Using Embeddings][openai-cookbook] guide.
 
 <div align="center">
   <img src="/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">

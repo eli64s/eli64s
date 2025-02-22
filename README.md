@@ -1,22 +1,22 @@
-### 𖣠 What's Up?
+### ◦ What's Up?
 
 I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI infrastructure**, **dev tools**, and **open-source**. Cheers!
 
 [![Eli's GitHub Stats][github-readme-stats-vercel-app]][github-readme-stats]
 
-<div align="center">
+<!-- <div align="center">
   <img src="/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
-</div>
+</div> -->
 
-### 𖣠 Open Source Projects
+### ◦ Open Source Projects
 
 - **[ReadmeAI][readme-ai]**: Automated README file generator, powered by AI.
 - **[Markitecture][markitecture]**: Tools for modular documentation workflows and content management.
 - **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's [Code Search Using Embeddings][openai-cookbook] guide.
 
-<div align="center">
+<!-- <div align="center">
   <img src="/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
-</div>
+</div> -->
 
 <!-- 
 ### 🔷 Professional Experience
@@ -33,7 +33,7 @@ I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI 
 ### 🔵 Connect
 -->
 
-### 𖣠 Let's Connect
+### ◦ Let's Connect
 
 [<img src="https://www.svgrepo.com/show/46214/email.svg" width="25"/>][gmail]&emsp;
 [<img src="https://www.svgrepo.com/show/494209/linkedin.svg" width="25"/>][linkedin]&emsp;

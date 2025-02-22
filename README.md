@@ -8,11 +8,11 @@ I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI 
   <img src="/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
 </div>
 
-### ◆ What I Work On
+### ◆ Open Source Projects
 
 - **[ReadmeAI][readme-ai]**: Automated README file generator, powered by AI.
 - **[Markitecture][markitecture]**: Tools for modular documentation workflows and content management.
-- **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's _Code Search Using Embeddings_ notebook.
+- **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's [Code Search Using Embeddings][openai-cookbook] guide.s
 
 <div align="center">
   <img src="/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">

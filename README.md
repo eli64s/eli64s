@@ -39,8 +39,6 @@ I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI 
 [<img src="https://www.svgrepo.com/show/494209/linkedin.svg" width="25"/>][linkedin]&emsp;
 [<img src="https://simpleicons.org/icons/x.svg" width="25"/>][x]&emsp;
 
----
-
 <!-- <div align="center">
   <img src="/assets/svg/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
 </div> -->

@@ -1,1 +1,1 @@
-<img src="./assets/svg/SOUL.svg" alt="Eli Salamie" width="100"/>
+<img src="./assets/svg/SOUL.svg" alt="GitHub Profile Banner" width="100%"/>

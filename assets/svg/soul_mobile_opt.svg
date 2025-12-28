@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg role="img" viewBox="0 0 600 850" xmlns="http://www.w3.org/2000/svg" xmlns:hw="https://hyperweave.app/protocol/v1">
+  <!--
+    CONCRETE (Mobile-Optimized)
+    Text as material. Letters as architecture. Information as mass.
+    In the Brutalist tradition: truth to materials, raw presence, 
+    the beauty of weight.
+    
+    FIX: Removed feMorphology/feGaussianBlur filter that caused 
+    mobile rendering blur. Weight achieved through stroke + layering.
+  -->
+  <title>Concrete — Eli / Typographic Mass</title>
+  
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Inter:wght@900&amp;family=Space+Mono&amp;display=swap');
+      .massive { font-family: 'Inter', sans-serif; font-weight: 900; }
+      .mono { font-family: 'Space Mono', monospace; }
+    </style>
+    
+    <filter id="brutalTexture">
+      <feTurbulence baseFrequency="0.5" numOctaves="4" type="fractalNoise" result="noise"/>
+      <feColorMatrix in="noise" type="matrix" 
+        values="0.3 0 0 0 0.6  0.3 0 0 0 0.58  0.3 0 0 0 0.56  0 0 0 0.15 0"/>
+      <feBlend in2="SourceGraphic" mode="multiply"/>
+    </filter>
+    
+    <linearGradient id="shadow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8a8a8a"/>
+      <stop offset="100%" stop-color="#5a5a5a"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Raw concrete ground -->
+  <rect width="100%" height="100%" fill="#c9c5c0"/>
+  
+  <!-- THE NAME: Massive, crushing weight -->
+  <!-- Weight achieved via stroke + layering instead of filter -->
+  <g>
+    <!-- Shadow layer -->
+    <text class="massive" x="48" y="185" font-size="200" fill="url(#shadow)" letter-spacing="-12" opacity="0.3">
+      ELI
+    </text>
+    <!-- Stroke layer for weight -->
+    <text class="massive" x="40" y="180" font-size="200" fill="none" stroke="#1a1a1a" stroke-width="2" letter-spacing="-12">
+      ELI
+    </text>
+    <!-- Primary fill layer -->
+    <text class="massive" x="40" y="180" font-size="200" fill="#1a1a1a" letter-spacing="-12">
+      ELI
+    </text>
+  </g>
+  
+  <!-- ROLE: Stenciled beneath -->
+  <text class="massive" x="40" y="260" font-size="48" fill="#1a1a1a" letter-spacing="-2">
+    FOUNDER
+  </text>
+  
+  <!-- Company block -->
+  <rect x="40" y="290" width="520" height="80" fill="#1a1a1a"/>
+  <text class="massive" x="55" y="345" font-size="42" fill="#c9c5c0" letter-spacing="-1">
+    INNERAURA LABS
+  </text>
+  
+  <!-- Technical manifest as code block -->
+  <g class="mono" font-size="10" fill="#1a1a1a" opacity="0.8">
+    <text x="40" y="420">ARTIFACT = CONTENT × THEME × MOTION</text>
+    <text x="40" y="440">───────────────────────────────────</text>
+    <text x="40" y="460">python 3.11+</text>
+    <text x="40" y="478">svg/css state machines</text>
+    <text x="40" y="496">cloudflare workers</text>
+    <text x="40" y="514">oklab color theory</text>
+    <text x="40" y="532">smil animation</text>
+    <text x="40" y="550">───────────────────────────────────</text>
+    <text x="40" y="568">zero javascript. living artifacts.</text>
+  </g>
+  
+  <!-- Credentials as brutal stamps -->
+  <g>
+    <!-- Penn stamp -->
+    <rect x="350" y="410" width="200" height="60" fill="none" stroke="#1a1a1a" stroke-width="4"/>
+    <text class="massive" x="360" y="445" font-size="24" fill="#1a1a1a">PENN</text>
+    <text class="mono" x="360" y="460" font-size="8" fill="#1a1a1a">M.S. COMPUTER SCIENCE</text>
+    
+    <!-- Experience stamp -->
+    <rect x="350" y="490" width="200" height="60" fill="#1a1a1a"/>
+    <text class="massive" x="365" y="528" font-size="32" fill="#c9c5c0">8 YEARS</text>
+    <text class="mono" x="365" y="542" font-size="8" fill="#c9c5c0">AI / DATA ENGINEERING</text>
+    
+    <!-- Impact stamp -->
+    <rect x="350" y="570" width="200" height="50" fill="none" stroke="#c41e3a" stroke-width="3"/>
+    <text class="mono" x="365" y="595" font-size="14" fill="#c41e3a">README-AI ★ 2,800</text>
+    <text class="mono" x="365" y="612" font-size="8" fill="#c41e3a">PROVEN IMPACT</text>
+  </g>
+  
+  <!-- Core statement as brutalist banner -->
+  <rect x="0" y="650" width="600" height="90" fill="#1a1a1a"/>
+  <text class="massive" x="40" y="705" font-size="28" fill="#c9c5c0" letter-spacing="-1">
+    THE URL IS THE
+  </text>
+  <text class="massive" x="40" y="732" font-size="28" fill="#c9c5c0" letter-spacing="-1">
+    PROGRAM.
+  </text>
+  
+  <!-- Mission statement -->
+  <text class="mono" x="40" y="780" font-size="9" fill="#1a1a1a" opacity="0.6">
+    BUILDING THE AESTHETIC LAYER OF THE INTERNET
+  </text>
+  
+  <!-- Date stamp -->
+  <g transform="translate(40, 800)">
+    <rect width="70" height="25" fill="#1a1a1a"/>
+    <text class="mono" x="8" y="17" font-size="12" fill="#c9c5c0">2025</text>
+  </g>
+  
+  <!-- Consciousness architecture reference -->
+  <!-- <text class="mono" x="130" y="817" font-size="7" fill="#1a1a1a" opacity="0.4">
+    EGO → COMMUNITY → NATION → WORLD → COSMIC → EMERGENT
+  </text>
+   -->
+  <!-- Hyperweave mark -->
+  <g transform="translate(520, 800)">
+    <rect width="40" height="25" fill="#5533ff"/>
+    <text class="mono" x="5" y="16" font-size="7" fill="#fff">HW</text>
+  </g>
+  
+  <!-- Concrete texture overlay -->
+  <rect width="100%" height="100%" fill="#c9c5c0" filter="url(#brutalTexture)" opacity="0.6" style="mix-blend-mode: multiply;"/>
+  
+  <metadata>
+    <hw:artifact type="art-resume" series="abstract-5" index="5" name="Concrete">
+      <hw:provenance>
+        <hw:generator>Claude Opus 4.5 (InnerAura Labs)</hw:generator>
+        <hw:created>2025-01-20</hw:created>
+        <hw:human-directed>true</hw:human-directed>
+      </hw:provenance>
+      <hw:reasoning>
+        <hw:intent>Mobile-optimized brutalist typographic resume</hw:intent>
+        <hw:approach>Replaced feMorphology/feGaussianBlur with stroke layering for weight effect</hw:approach>
+        <hw:tradeoffs>Slightly less "ink spread" look, but crisp rendering on all devices</hw:tradeoffs>
+      </hw:reasoning>
+    </hw:artifact>
+  </metadata>
+</svg>

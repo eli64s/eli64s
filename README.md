@@ -2,10 +2,11 @@
 
 I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI infrastructure**, **dev tools**, and **open-source**. Cheers!
 
-[![Eli's GitHub Stats][github-readme-stats-vercel-app]][github-readme-stats]
+[<img src="https://hyperweave.app/v1/stats/eli64s/chrome-horizon" alt="Eli's GitHub Stats" width="495" />][github-profile]
 
 ### Open Source Projects
 
+- **[HyperWeave][hyperweave]**: Headless visual output layer for agents.
 - **[ReadmeAI][readme-ai]**: Automated README file generator, powered by AI.
 - **[Markitect][markitect]**: Tools for modular documentation workflows and content management.
 - **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's [Code Search Using Embeddings][openai-cookbook] guide.
@@ -33,40 +34,26 @@ I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI 
 
 ### Let's Connect
 
-[<img src="https://www.svgrepo.com/show/46214/email.svg" width="25"/>][gmail]&emsp;
-[<img src="https://www.svgrepo.com/show/494209/linkedin.svg" width="25"/>][linkedin]&emsp;
-[<img src="https://simpleicons.org/icons/x.svg" width="25"/>][x]&emsp;
+[<img src="https://hyperweave.app/v1/icon/email/chrome-horizon.static?shape=circle" width="32" alt="Email"/>][gmail]&emsp;
+[<img src="https://hyperweave.app/v1/icon/linkedin/chrome-horizon.static?shape=circle" width="32" alt="LinkedIn"/>][linkedin]&emsp;
+[<img src="https://hyperweave.app/v1/icon/x/chrome-horizon.static?shape=circle" width="32" alt="X"/>][x]&emsp;
 
 <!-- <div align="center">
   <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
 </div> -->
 
 <!-- REFERENCE LINKS -->
-<!-- GITHUB PROFILE STATS VERCEL APP -->
-[github-readme-stats-vercel-app]: https://github-readme-stats.vercel.app/api?username=eli64s
-[github-readme-stats]: https://github.com/anuraghazra/github-readme-stats
+<!-- GITHUB PROFILE -->
+[github-profile]: https://github.com/eli64s
 
 <!-- OPEN SOURCE -->
+[hyperweave]: https://github.com/InnerAura/hyperweave
 [readme-ai]: https://github.com/eli64s/readme-ai
 [markitect]: https://github.com/eli64s/markitecture
 [openai-cookbook]: https://cookbook.openai.com/examples/code_search_using_embeddings
 
 <!-- CONTACT -->
 [gmail]: mailto:egsalamie@gmail.com
-[linkedin]: https://www.linkedin.com/in/salamieeli/
-[x]: https://x.com/zerox_eli
+[linkedin]: https://www.linkedin.com/in/elisalamie
+[x]: https://x.com/eli64s
 
-<!-- SVG PROFILE BANNER ICON -->
-<!--
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" 
-    srcset="https://raw.githubusercontent.com/eli64s/eli64s/b605f837433a26010f4ebda2853ce4f89ae0986b/banner.svg">
-    <source media="(prefers-color-scheme: light)" 
-    srcset="https://raw.githubusercontent.com/eli64s/eli64s/b605f837433a26010f4ebda2853ce4f89ae0986b/banner.svg">
-    <img alt="Profile Header" 
-    src="https://raw.githubusercontent.com/eli64s/eli64s/b605f837433a26010f4ebda2853ce4f89ae0986b/banner.svg" 
-    width="100%">
-  </picture>
-</div>
--->

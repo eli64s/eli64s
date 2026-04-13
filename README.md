@@ -34,9 +34,9 @@ I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI 
 
 ### Let's Connect
 
-[<img src="https://hyperweave.app/v1/icon/email/chrome-horizon.static?shape=circle" width="32" alt="Email"/>][gmail]&emsp;
-[<img src="https://hyperweave.app/v1/icon/linkedin/chrome-horizon.static?shape=circle" width="32" alt="LinkedIn"/>][linkedin]&emsp;
-[<img src="https://hyperweave.app/v1/icon/x/chrome-horizon.static?shape=circle" width="32" alt="X"/>][x]&emsp;
+[<img src="https://hyperweave.app/v1/icon/email/chrome-horizon.static?shape=square" alt="Email"/>][gmail]
+[<img src="https://hyperweave.app/v1/icon/linkedin/chrome-horizon.static?shape=square" alt="LinkedIn"/>][linkedin]
+[<img src="https://hyperweave.app/v1/icon/x/chrome-horizon.static?shape=square" alt="X"/>][x]
 
 <!-- <div align="center">
   <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">

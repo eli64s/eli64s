@@ -4,6 +4,8 @@ I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI 
 
 [<img src="https://hyperweave.app/v1/stats/eli64s/chrome-horizon" alt="Eli's GitHub Stats" width="495" />][github-profile]
 
+[<img src="https://hyperweave.app/v1/chart/stars/eli64s/readme-ai/chrome-horizon.static" alt="readme-ai Star History" width="495" />][readme-ai]
+
 ### Open Source Projects
 
 - **[HyperWeave][hyperweave]**: Headless visual output layer for agents.

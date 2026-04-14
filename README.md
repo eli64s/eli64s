@@ -1,10 +1,10 @@
 ### What's Up?
 
-I’m **Eli**—a **Software Engineer** with a passion for **automation**, **AI infrastructure**, **dev tools**, and **open-source**. Cheers!
+I’m **Eli**, currently building [HyperWeave], an open-source project focused on creating a headless visual output layer for agents. Cheers!
 
 [<img src="https://hyperweave.app/v1/stats/eli64s/chrome-horizon" alt="Eli's GitHub Stats" width="495" />][github-profile]
 
-[<img src="https://hyperweave.app/v1/chart/stars/eli64s/readme-ai/chrome-horizon.static" alt="readme-ai Star History" width="495" />][readme-ai]
+<!-- [<img src="https://hyperweave.app/v1/chart/stars/eli64s/readme-ai/chrome-horizon.static" alt="readme-ai Star History" width="495" />][readme-ai] -->
 
 ### Open Source Projects
 

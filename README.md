@@ -36,9 +36,9 @@ I’m **Eli**, currently building [HyperWeave], an open-source project focused o
 
 ### Let's Connect
 
-[<img src="https://hyperweave.app/v1/icon/email/chrome-horizon.static?shape=square" alt="Email"/>][gmail]&emsp;
-[<img src="https://hyperweave.app/v1/icon/linkedin/chrome-horizon.static?shape=square" alt="LinkedIn"/>][linkedin]&emsp;
-[<img src="https://hyperweave.app/v1/icon/x/chrome-horizon.static?shape=square" alt="X"/>][x]&emsp;
+[<img src="https://hyperweave.app/v1/icon/email/chrome-horizon.static?shape=circle" alt="Email"/>][gmail]&emsp;
+[<img src="https://hyperweave.app/v1/icon/linkedin/chrome-horizon.static?shape=circle" alt="LinkedIn"/>][linkedin]&emsp;
+[<img src="https://hyperweave.app/v1/icon/x/chrome-horizon.static?shape=circle" alt="X"/>][x]&emsp;
 
 <!-- <div align="center">
   <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">

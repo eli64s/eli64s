@@ -39,6 +39,7 @@ I’m **Eli**, currently building [HyperWeave], an open-source project focused o
 [<img src="https://hyperweave.app/v1/icon/email/chrome-horizon.static?shape=circle" alt="Email"/>][gmail]&emsp;
 [<img src="https://hyperweave.app/v1/icon/linkedin/chrome-horizon.static?shape=circle" alt="LinkedIn"/>][linkedin]&emsp;
 [<img src="https://hyperweave.app/v1/icon/x/chrome-horizon.static?shape=circle" alt="X"/>][x]&emsp;
+[<img src="https://hyperweave.app/v1/icon/instagram/chrome-horizon.static?shape=circle" alt="Instagram"/>][instagram]
 
 <!-- <div align="center">
   <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
@@ -58,4 +59,4 @@ I’m **Eli**, currently building [HyperWeave], an open-source project focused o
 [gmail]: mailto:egsalamie@gmail.com
 [linkedin]: https://www.linkedin.com/in/elisalamie
 [x]: https://x.com/eli64s
-
+[instagram]: https://www.instagram.com/0x.eli

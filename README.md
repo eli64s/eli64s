@@ -1,6 +1,6 @@
 ### What's Up?
 
-I’m **Eli**, currently building [HyperWeave], an open-source project focused on creating a headless visual output layer for agents. Cheers!
+I’m **Eli**, currently building [HyperWeave], a visual output layer for agents. Cheers!
 
 [<img src="https://hyperweave.app/v1/stats/eli64s/chrome-horizon" alt="Eli's GitHub Stats" width="495" />][github-profile]
 

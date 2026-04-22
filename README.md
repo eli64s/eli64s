@@ -38,8 +38,8 @@ I’m **Eli**, currently building [HyperWeave], a visual output layer for agents
 
 [<img src="https://hyperweave.app/v1/icon/email/chrome-horizon.static?shape=circle" alt="Email"/>][gmail]&emsp;
 [<img src="https://hyperweave.app/v1/icon/linkedin/chrome-horizon.static?shape=circle" alt="LinkedIn"/>][linkedin]&emsp;
-[<img src="https://hyperweave.app/v1/icon/x/chrome-horizon.static?shape=circle" alt="X"/>][x]&emsp;
-[<img src="https://hyperweave.app/v1/icon/instagram/chrome-horizon.static?shape=circle" alt="Instagram"/>][instagram]
+[<img src="https://hyperweave.app/v1/icon/instagram/chrome-horizon.static?shape=circle" alt="Instagram"/>][instagram]&emsp;
+[<img src="https://hyperweave.app/v1/icon/x/chrome-horizon.static?shape=circle" alt="X"/>][x]
 
 <!-- <div align="center">
   <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">

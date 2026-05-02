@@ -2,9 +2,9 @@
 
 I’m **Eli**, currently building [HyperWeave], a visual output layer for agents. Cheers!
 
-[<img src="https://hyperweave.app/v1/stats/eli64s/chrome-horizon" alt="Eli's GitHub Stats" width="495" />][github-profile]
+[<img src="https://hyperweave.app/v1/stats/eli64s/chrome" alt="Eli's GitHub Stats" width="495" />][github-profile]
 
-<!-- [<img src="https://hyperweave.app/v1/chart/stars/eli64s/readme-ai/chrome-horizon.static" alt="readme-ai Star History" width="495" />][readme-ai] -->
+<!-- [<img src="https://hyperweave.app/v1/chart/stars/eli64s/readme-ai/chrome.static" alt="readme-ai Star History" width="495" />][readme-ai] -->
 
 ### Open Source Projects
 
@@ -36,10 +36,10 @@ I’m **Eli**, currently building [HyperWeave], a visual output layer for agents
 
 ### Let's Connect
 
-[<img src="https://hyperweave.app/v1/icon/email/chrome-horizon.static?shape=square" alt="Email"/>][gmail]&emsp;
-[<img src="https://hyperweave.app/v1/icon/linkedin/chrome-horizon.static?shape=square" alt="LinkedIn"/>][linkedin]&emsp;
-[<img src="https://hyperweave.app/v1/icon/instagram/chrome-horizon.static?shape=square" alt="Instagram"/>][instagram]&emsp;
-[<img src="https://hyperweave.app/v1/icon/x/chrome-horizon.static?shape=square" alt="X"/>][x]
+[<img src="https://hyperweave.app/v1/icon/email/chrome.static?shape=square" alt="Email"/>][gmail]&emsp;
+[<img src="https://hyperweave.app/v1/icon/linkedin/chrome.static?shape=square" alt="LinkedIn"/>][linkedin]&emsp;
+[<img src="https://hyperweave.app/v1/icon/instagram/chrome.static?shape=square" alt="Instagram"/>][instagram]&emsp;
+[<img src="https://hyperweave.app/v1/icon/x/chrome.static?shape=square" alt="X"/>][x]
 
 <!-- <div align="center">
   <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">

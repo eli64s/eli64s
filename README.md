@@ -41,6 +41,8 @@ I’m **Eli**, currently building [HyperWeave], a visual output layer for agents
 [<img src="https://hyperweave.app/v1/icon/instagram/chrome.static?shape=square" alt="Instagram"/>][instagram]&emsp;
 [<img src="https://hyperweave.app/v1/icon/x/chrome.static?shape=square" alt="X"/>][x]
 
+<img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="divider" width="100%">
+
 <!-- <div align="center">
   <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
 </div> -->

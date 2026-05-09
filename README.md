@@ -15,6 +15,8 @@ I’m **Eli**, currently building [HyperWeave], a visual output layer for agents
 - **[Markitect][markitect]**: Tools for modular documentation workflows and content management.
 - **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's [Code Search Using Embeddings][openai-cookbook] guide.
 
+<img src="https://hyperweave.app/v1/divider/band/chrome.static" alt="divider" width="100%">
+
 <!--
 <div align="center">
   <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">

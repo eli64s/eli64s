@@ -8,9 +8,7 @@ I’m **Eli**, currently building [HyperWeave], a visual output layer for agents
 [<img src="https://hyperweave.app/v1/chart/stars/eli64s/readme-ai/automata.static?variant=bone" alt="readme-ai Star History" width="495" />][readme-ai]
 -->
 
-<!--
-<img src="https://hyperweave.app/v1/divider/dissolve/automata.static?variant=bone" alt="divider" width="100%">
--->
+<img src="https://hyperweave.app/v1/divider/band/chrome.static?variant=graphite" alt="divider" width="100%">
 
 ### Open Source Projects
 
@@ -19,8 +17,6 @@ I’m **Eli**, currently building [HyperWeave], a visual output layer for agents
 - **[Markitect][markitect]**: Tools for modular documentation workflows and content management.
 - **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's [Code Search Using Embeddings][openai-cookbook] guide.
 
-<!--
-<img src="https://hyperweave.app/v1/divider/dissolve/automata.static?variant=bone" alt="divider" width="100%"> -->
 
 <!--
 <div align="center">

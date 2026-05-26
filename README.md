@@ -2,14 +2,14 @@
 
 I’m **Eli**, currently building [HyperWeave], a visual output layer for agents. Cheers!
 
-[<img src="https://hyperweave.app/v1/stats/eli64s/chrome.static?variant=abyssal" alt="Eli's GitHub Stats" width="495" />][github-profile]
+[<img src="https://hyperweave.app/v1/stats/eli64s/chrome.static?variant=moth" alt="Eli's GitHub Stats" width="495" />][github-profile]
 
 <!--
 [<img src="https://hyperweave.app/v1/chart/stars/eli64s/readme-ai/automata.static?variant=bone" alt="readme-ai Star History" width="495" />][readme-ai]
 -->
 
 <!--
-<img src="https://hyperweave.app/v1/divider/band/chrome.static?variant=abyssal" alt="divider" width="100%">
+<img src="https://hyperweave.app/v1/divider/band/chrome.static?variant=moth" alt="divider" width="100%">
 -->
 
 ### Open Source Projects
@@ -43,12 +43,12 @@ I’m **Eli**, currently building [HyperWeave], a visual output layer for agents
 
 ### Let's Connect
 
-[<img src="https://hyperweave.app/v1/icon/email/chrome.static?shape=square&variant=abyssal" alt="Email"/>][gmail]&emsp;
-[<img src="https://hyperweave.app/v1/icon/linkedin/chrome.static?shape=square&variant=abyssal" alt="LinkedIn"/>][linkedin]&emsp;
-[<img src="https://hyperweave.app/v1/icon/instagram/chrome.static?shape=square&variant=abyssal" alt="Instagram"/>][instagram]&emsp;
-[<img src="https://hyperweave.app/v1/icon/x/chrome.static?shape=square&variant=abyssal" alt="X"/>][x]
+[<img src="https://hyperweave.app/v1/icon/email/chrome.static?shape=square&variant=moth" alt="Email"/>][gmail]&emsp;
+[<img src="https://hyperweave.app/v1/icon/linkedin/chrome.static?shape=square&variant=moth" alt="LinkedIn"/>][linkedin]&emsp;
+[<img src="https://hyperweave.app/v1/icon/instagram/chrome.static?shape=square&variant=moth" alt="Instagram"/>][instagram]&emsp;
+[<img src="https://hyperweave.app/v1/icon/x/chrome.static?shape=square&variant=moth" alt="X"/>][x]
 
-<img src="https://hyperweave.app/v1/divider/band/chrome.static?variant=abyssal" alt="divider" width="100%">
+<img src="https://hyperweave.app/v1/divider/band/chrome.static?variant=moth" alt="divider" width="100%">
 
 <!-- <div align="center">
   <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">

@@ -2,14 +2,14 @@
 
 I’m **Eli**, currently building [HyperWeave], a visual output layer for agents. Cheers!
 
-[<img src="https://hyperweave.app/v1/stats/eli64s/brutalist?variant=primer" alt="Eli's GitHub Stats" width="495" />][github-profile]
+[<img src="https://hyperweave.app/v1/stats/eli64s/brutalist?variant=celadon" alt="Eli's GitHub Stats" width="495" />][github-profile]
 
 <!--
 [<img src="https://hyperweave.app/v1/chart/stars/eli64s/readme-ai/automata.static?variant=bone" alt="readme-ai Star History" width="495" />][readme-ai]
 -->
 
 <!--
-<img src="https://hyperweave.app/v1/divider/band/brutalist?variant=primer" alt="divider" width="100%">
+<img src="https://hyperweave.app/v1/divider/band/brutalist?variant=celadon" alt="divider" width="100%">
 -->
 
 ### Open Source Projects
@@ -43,12 +43,12 @@ I’m **Eli**, currently building [HyperWeave], a visual output layer for agents
 
 ### Let's Connect
 
-[<img src="https://hyperweave.app/v1/icon/email/brutalist?shape=circle&variant=primer" alt="Email"/>][gmail]&emsp;
-[<img src="https://hyperweave.app/v1/icon/linkedin/brutalist?shape=circle&variant=primer" alt="LinkedIn"/>][linkedin]&emsp;
-[<img src="https://hyperweave.app/v1/icon/instagram/brutalist?shape=circle&variant=primer" alt="Instagram"/>][instagram]&emsp;
-[<img src="https://hyperweave.app/v1/icon/x/brutalist?shape=circle&variant=primer" alt="X"/>][x]
+[<img src="https://hyperweave.app/v1/icon/email/brutalist?shape=circle&variant=celadon" alt="Email"/>][gmail]&emsp;
+[<img src="https://hyperweave.app/v1/icon/linkedin/brutalist?shape=circle&variant=celadon" alt="LinkedIn"/>][linkedin]&emsp;
+[<img src="https://hyperweave.app/v1/icon/instagram/brutalist?shape=circle&variant=celadon" alt="Instagram"/>][instagram]&emsp;
+[<img src="https://hyperweave.app/v1/icon/x/brutalist?shape=circle&variant=celadon" alt="X"/>][x]
 
-<img src="https://hyperweave.app/v1/divider/seam/brutalist?variant=primer" alt="divider" width="100%">
+<img src="https://hyperweave.app/v1/divider/seam/brutalist?variant=celadon" alt="divider" width="100%">
 
 <!-- <div align="center">
   <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">

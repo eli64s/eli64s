@@ -43,10 +43,10 @@ I’m **Eli**, currently building [HyperWeave], a visual output layer for agents
 
 ### Let's Connect
 
-[<img src="https://hyperweave.app/v1/icon/email/chrome?shape=circle&variant=moth" alt="Email"/>][gmail]&emsp;
-[<img src="https://hyperweave.app/v1/icon/linkedin/chrome?shape=circle&variant=moth" alt="LinkedIn"/>][linkedin]&emsp;
-[<img src="https://hyperweave.app/v1/icon/instagram/chrome?shape=circle&variant=moth" alt="Instagram"/>][instagram]&emsp;
-[<img src="https://hyperweave.app/v1/icon/x/chrome?shape=circle&variant=moth" alt="X"/>][x]
+[<img src="https://hyperweave.app/v1/icon/email/chrome?shape=square&variant=moth" alt="Email"/>][gmail]&emsp;
+[<img src="https://hyperweave.app/v1/icon/linkedin/chrome?shape=square&variant=moth" alt="LinkedIn"/>][linkedin]&emsp;
+[<img src="https://hyperweave.app/v1/icon/instagram/chrome?shape=square&variant=moth" alt="Instagram"/>][instagram]&emsp;
+[<img src="https://hyperweave.app/v1/icon/x/chrome?shape=square&variant=moth" alt="X"/>][x]
 
 <img src="https://hyperweave.app/v1/divider/band/chrome?variant=moth" alt="divider" width="100%">
 

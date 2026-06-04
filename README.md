@@ -2,19 +2,19 @@
 
 I’m **Eli**, currently building [HyperWeave], a visual output layer for agents. Cheers!
 
-[<img src="https://hyperweave.app/v1/stats/eli64s/chrome?variant=abyssal" alt="Eli's GitHub Stats" width="495" />][github-profile]
+[<img src="https://hyperweave.app/v1/stats/eli64s/brutalist?variant=archive" alt="Eli's GitHub Stats" width="495" />][github-profile]
 
 <!--
 [<img src="https://hyperweave.app/v1/chart/stars/eli64s/readme-ai/automata.static?variant=bone" alt="readme-ai Star History" width="495" />][readme-ai]
 -->
 
 <!--
-<img src="https://hyperweave.app/v1/divider/band/chrome?variant=abyssal" alt="divider" width="100%">
+<img src="https://hyperweave.app/v1/divider/band/brutalist?variant=archive" alt="divider" width="100%">
 -->
 
 ### Open Source Projects
 
-- **[HyperWeave][hyperweave]**: Headless visual output layer for agents.
+- **[HyperWeave][hyperweave]**: Portable visual output layer for agents.
 - **[ReadmeAI][readme-ai]**: Automated README file generator, powered by AI.
 - **[Markitect][markitect]**: Tools for modular documentation workflows and content management.
 - **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's [Code Search Using Embeddings][openai-cookbook] guide.
@@ -43,12 +43,12 @@ I’m **Eli**, currently building [HyperWeave], a visual output layer for agents
 
 ### Let's Connect
 
-[<img src="https://hyperweave.app/v1/icon/email/chrome?shape=square&variant=abyssal" alt="Email"/>][gmail]&emsp;
-[<img src="https://hyperweave.app/v1/icon/linkedin/chrome?shape=square&variant=abyssal" alt="LinkedIn"/>][linkedin]&emsp;
-[<img src="https://hyperweave.app/v1/icon/instagram/chrome?shape=square&variant=abyssal" alt="Instagram"/>][instagram]&emsp;
-[<img src="https://hyperweave.app/v1/icon/x/chrome?shape=square&variant=abyssal" alt="X"/>][x]
+[<img src="https://hyperweave.app/v1/icon/email/brutalist?shape=square&variant=archive" alt="Email"/>][gmail]&emsp;
+[<img src="https://hyperweave.app/v1/icon/linkedin/brutalist?shape=square&variant=archive" alt="LinkedIn"/>][linkedin]&emsp;
+[<img src="https://hyperweave.app/v1/icon/instagram/brutalist?shape=square&variant=archive" alt="Instagram"/>][instagram]&emsp;
+[<img src="https://hyperweave.app/v1/icon/x/brutalist?shape=square&variant=archive" alt="X"/>][x]
 
-<img src="https://hyperweave.app/v1/divider/band/chrome?variant=abyssal" alt="divider" width="100%">
+<img src="https://hyperweave.app/v1/divider/sigil/brutalist?variant=archive" alt="divider" width="100%">
 
 <!-- <div align="center">
   <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">

@@ -4,6 +4,8 @@ I’m **Eli**, currently building [HyperWeave], a visual output layer for agents
 
 [<img src="https://hyperweave.app/v1/stats/eli64s/automata?variant=bone" alt="Eli's GitHub Stats" width="495" />][github-profile]
 
+<img src="https://hyperweave.app/v1/divider/band/chrome?variant=graphite" alt="divider" width="100%" style="margin: 20px 0;">
+
 <!--
 [<img src="https://hyperweave.app/v1/chart/stars/eli64s/readme-ai/automata.static?variant=bone" alt="readme-ai Star History" width="495" />][readme-ai]
 -->

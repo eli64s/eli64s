@@ -2,14 +2,14 @@
 
 I’m **Eli**, currently building [HyperWeave], a visual output layer for agents. Cheers!
 
-[<img src="https://hyperweave.app/v1/stats/eli64s/brutalist?variant=depth" alt="Eli's GitHub Stats" width="495" />][github-profile]
+[<img src="https://hyperweave.app/v1/stats/eli64s/brutalist?variant=archive" alt="Eli's GitHub Stats" width="495" />][github-profile]
 
 <!--
 [<img src="https://hyperweave.app/v1/chart/stars/eli64s/readme-ai/automata.static?variant=bone" alt="readme-ai Star History" width="495" />][readme-ai]
 -->
 
 <!--
-<img src="https://hyperweave.app/v1/divider/band/brutalist?variant=depth" alt="divider" width="100%">
+<img src="https://hyperweave.app/v1/divider/band/brutalist?variant=archive" alt="divider" width="100%">
 -->
 
 ### Open Source Projects
@@ -43,13 +43,13 @@ I’m **Eli**, currently building [HyperWeave], a visual output layer for agents
 
 ### Let's Connect
 
-[<img src="https://hyperweave.app/v1/icon/email/brutalist?shape=circle&variant=depth" alt="Email"/>][gmail]&emsp;
-[<img src="https://hyperweave.app/v1/icon/linkedin/brutalist?shape=circle&variant=depth" alt="LinkedIn"/>][linkedin]&emsp;
-[<img src="https://hyperweave.app/v1/icon/instagram/brutalist?shape=circle&variant=depth" alt="Instagram"/>][instagram]&emsp;
-[<img src="https://hyperweave.app/v1/icon/x/brutalist?shape=circle&variant=depth" alt="X"/>][x]
+[<img src="https://hyperweave.app/v1/icon/email/brutalist?shape=circle&variant=archive" alt="Email"/>][gmail]&emsp;
+[<img src="https://hyperweave.app/v1/icon/linkedin/brutalist?shape=circle&variant=archive" alt="LinkedIn"/>][linkedin]&emsp;
+[<img src="https://hyperweave.app/v1/icon/instagram/brutalist?shape=circle&variant=archive" alt="Instagram"/>][instagram]&emsp;
+[<img src="https://hyperweave.app/v1/icon/x/brutalist?shape=circle&variant=archive" alt="X"/>][x]
 
 <!--
-<img src="https://hyperweave.app/v1/divider/band/brutalist?variant=depth" alt="divider" width="100%" style="margin: 20px 0;">
+<img src="https://hyperweave.app/v1/divider/band/brutalist?variant=archive" alt="divider" width="100%" style="margin: 20px 0;">
 -->
 
 <!-- <div align="center">

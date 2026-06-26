@@ -43,14 +43,14 @@ I’m **Eli**, currently building [HyperWeave], a visual output layer for agents
 
 ### Let's Connect
 
-[<img src="https://hyperweave.app/v1/icon/email/brutalist?shape=circle&variant=ozalid" alt="Email"/>][gmail]&emsp;
-[<img src="https://hyperweave.app/v1/icon/linkedin/brutalist?shape=circle&variant=ozalid" alt="LinkedIn"/>][linkedin]&emsp;
-[<img src="https://hyperweave.app/v1/icon/instagram/brutalist?shape=circle&variant=ozalid" alt="Instagram"/>][instagram]&emsp;
-[<img src="https://hyperweave.app/v1/icon/x/brutalist?shape=circle&variant=ozalid" alt="X"/>][x]
+[<img src="https://hyperweave.app/v1/icon/email/brutalist?shape=square&variant=ozalid" alt="Email"/>][gmail]&emsp;
+[<img src="https://hyperweave.app/v1/icon/linkedin/brutalist?shape=square&variant=ozalid" alt="LinkedIn"/>][linkedin]&emsp;
+[<img src="https://hyperweave.app/v1/icon/instagram/brutalist?shape=square&variant=ozalid" alt="Instagram"/>][instagram]&emsp;
+[<img src="https://hyperweave.app/v1/icon/x/brutalist?shape=square&variant=ozalid" alt="X"/>][x]
 
-<!--
-<img src="https://hyperweave.app/v1/divider/band/brutalist?variant=ozalid" alt="divider" width="100%" style="margin: 20px 0;">
--->
+
+<!-- <img src="https://hyperweave.app/v1/divider/sigil/brutalist?variant=ozalid" alt="divider" width="100%" style="margin: 20px 0;"> -->
+
 
 <!-- <div align="center">
   <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">

@@ -49,7 +49,7 @@ I’m **Eli**, currently building [HyperWeave], a visual output layer for agents
 [<img src="https://hyperweave.app/v1/icon/x/chrome?shape=square&variant=moth" alt="X"/>][x]
 
 
-<img src="https://hyperweave.app/v1/divider/band/chrome?variant=moth" alt="divider" width="100%" style="margin: 20px 0;">
+<!-- <img src="https://hyperweave.app/v1/divider/band/chrome?variant=moth" alt="divider" width="100%" style="margin: 20px 0;"> -->
 
 <!-- <div align="center">
   <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">

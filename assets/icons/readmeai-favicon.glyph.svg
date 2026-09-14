@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="-66 -76 132 152"
+     width="160"
+     height="184"
+     preserveAspectRatio="xMidYMid meet"
+     role="img"
+     aria-labelledby="ribbon-logo-title ribbon-logo-desc">
+  <title id="ribbon-logo-title">README-AI Core Ribbon Mark</title>
+  <desc id="ribbon-logo-desc">Isolated brand vector glyph of the README-AI notched bookmark ribbon with spectral gradient and pure transform motion.</desc>
+
+  <metadata>
+    <hw:metadata xmlns:hw="https://hyperweave.app/hw/v1.0">
+      <hw:artifactType>brand-mark</hw:artifactType>
+      <hw:chromaticSystem>linear-gradient-tri-stop</hw:chromaticSystem>
+      <hw:geometryFormLanguage>monolithic-notched-ribbon</hw:geometryFormLanguage>
+      <hw:reasoning>
+        <hw:intent>Isolate the fundamental brand geometry completely free of containers, backgrounds, tiles, or framing borders for universal micro-icon or header placement.</hw:intent>
+        <hw:approach>Centered the canonical notch polygon (-64,-74 to 64,74) on coordinate origin with a fitted viewbox. Mapped the authentic tri-stop linear gradient (#4169E1 -> #7B3DE3 -> #8A2BE2) across the diagonal extent. Added a hardware-accelerated CIM pulse with full reduced-motion accessibility.</hw:approach>
+        <hw:tradeoffs>Stripped all ambient and specular lighting layers to expose the uncluttered structural silhouette.</hw:tradeoffs>
+      </hw:reasoning>
+    </hw:metadata>
+  </metadata>
+
+  <defs>
+    <linearGradient id="pureBrandLinear" x1="-64" y1="-74" x2="64" y2="74" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4169E1" />
+      <stop offset="50%" stop-color="#7B3DE3" />
+      <stop offset="100%" stop-color="#8A2BE2" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .pure-ribbon {
+      fill: url(#pureBrandLinear);
+      transform-origin: 0 0;
+      animation: ribbon-pulse 6s cubic-bezier(0.4, 0, 0.2, 1) infinite alternate;
+    }
+
+    @keyframes ribbon-pulse {
+      0% {
+        transform: scale(1);
+      }
+      100% {
+        transform: scale(1.04);
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .pure-ribbon {
+        animation: none;
+      }
+    }
+  </style>
+
+  <!-- Pure Notched Ribbon Geometry -->
+  <path class="pure-ribbon"
+        d="M -64 -74
+           H 64
+           V 74
+           H 21
+           L 0 42
+           L -21 74
+           H -64
+           Z" />
+</svg>

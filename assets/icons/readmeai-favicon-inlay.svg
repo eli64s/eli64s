@@ -1,0 +1,108 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 256 256"
+     width="256"
+     height="256"
+     preserveAspectRatio="xMidYMid meet"
+     role="img"
+     aria-labelledby="readme-app-title readme-app-desc">
+  <title id="readme-app-title">README-AI macOS App Icon</title>
+  <desc id="readme-app-desc">Self-contained adaptive macOS squircle tile enclosing the README-AI notched bookmark ribbon with zero outer shadow canvas.</desc>
+
+  <metadata>
+    <hw:metadata xmlns:hw="https://hyperweave.app/hw/v1.0">
+      <hw:artifactType>application-icon</hw:artifactType>
+      <hw:chromaticSystem>adaptive-spectral-substrate</hw:chromaticSystem>
+      <hw:geometryFormLanguage>macos-squircle-notched-ribbon</hw:geometryFormLanguage>
+      <hw:reasoning>
+        <hw:intent>Encapsulate the brand ribbon inside a pristine macOS squircle boundary without outer diffuse drop-shadows, blurred bleed, or peripheral typography/satellites.</hw:intent>
+        <hw:approach>Constrained the entire canvas strictly to 256x256 with transparent margins. Positioned the exact notched ribbon geometry scaled to 128x148 centrally inside the squircle. Applied CSS custom properties toggling between the authentic midnight-violet slate substrate in dark mode and an optical light surface in light mode. Implemented transform-only CIM breathing on the inner ribbon.</hw:approach>
+        <hw:tradeoffs>Completely eliminated SVG feGaussianBlur drop-shadows on the outer frame to guarantee clean clipping and prevent muddy gray haloing across diverse backgrounds.</hw:tradeoffs>
+      </hw:reasoning>
+    </hw:metadata>
+  </metadata>
+
+  <defs>
+    <linearGradient id="brandLinear" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4169E1" />
+      <stop offset="50%" stop-color="#7B3DE3" />
+      <stop offset="100%" stop-color="#8A2BE2" />
+    </linearGradient>
+
+    <!-- Subtle directional surface tint for the tile -->
+    <linearGradient id="tileGradientDark" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#231C38" />
+      <stop offset="100%" stop-color="#141021" />
+    </linearGradient>
+
+    <linearGradient id="tileGradientLight" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#EEF1F8" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    :root {
+      --tile-fill: url(#tileGradientLight);
+      --tile-stroke: rgba(0, 0, 0, 0.08);
+      --tile-highlight: rgba(255, 255, 255, 0.8);
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --tile-fill: url(#tileGradientDark);
+        --tile-stroke: rgba(255, 255, 255, 0.12);
+        --tile-highlight: rgba(255, 255, 255, 0.06);
+      }
+    }
+
+    .squircle-tile {
+      fill: var(--tile-fill);
+      stroke: var(--tile-stroke);
+      stroke-width: 1;
+      transition: fill 0.3s ease, stroke 0.3s ease;
+    }
+
+    .squircle-inner-rim {
+      fill: none;
+      stroke: var(--tile-highlight);
+      stroke-width: 1;
+      pointer-events: none;
+    }
+
+    .ribbon-mark {
+      fill: url(#brandLinear);
+      transform-origin: 128px 128px;
+      animation: ribbon-breathe 7s cubic-bezier(0.4, 0, 0.2, 1) infinite alternate;
+    }
+
+    @keyframes ribbon-breathe {
+      0% {
+        transform: scale(1);
+      }
+      100% {
+        transform: scale(1.025);
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .ribbon-mark {
+        animation: none;
+      }
+    }
+  </style>
+
+  <!-- Clean macOS Squircle Substrate (No Outer Shadow) -->
+  <rect class="squircle-tile" x="0.5" y="0.5" width="255" height="255" rx="57.5" />
+  <rect class="squircle-inner-rim" x="1.5" y="1.5" width="253" height="253" rx="56.5" />
+
+  <!-- Centered Scaled Ribbon Geometry -->
+  <path class="ribbon-mark"
+        d="M 64 54
+           H 192
+           V 202
+           H 149
+           L 128 170
+           L 107 202
+           H 64
+           Z" />
+</svg>

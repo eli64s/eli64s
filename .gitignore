@@ -1,3 +1,17 @@
-assets/svg/soul_mobile_opt.svg
-assets/svg/SOUL.svg
-assets/svg/README.svg
+# eli64s/eli64s
+.claude/
+.hyperweave/
+archive/
+assets/diagrams/
+assets/banners/
+assets/dividers/
+assets/icons/_template.md
+assets/icons/chrome-horizon-github-glyph.svg
+assets/icons/chrome-horizon-linkedin-glyph.svg
+assets/icons/chrome-horizon-mail-glyph.svg
+assets/icons/chrome-horizon-stats-eli64s.svg
+assets/icons/chrome-horizon-x-glyph.svg
+assets/schemas/
+assets/soul-cards/
+examples/
+.mcp.json

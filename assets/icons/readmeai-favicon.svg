@@ -1,0 +1,237 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 256 256"
+     width="256"
+     height="256"
+     preserveAspectRatio="xMidYMid meet"
+     role="img"
+     aria-labelledby="readmeai-title readmeai-desc">
+  <title id="readmeai-title">README-AI Application Icon</title>
+  <desc id="readmeai-desc">Adaptive macOS squircle icon for README-AI featuring concentric orbital satellites, ambient core resonance, and GPU-composited CSS transforms.</desc>
+
+  <metadata>
+    <hw:metadata xmlns:hw="https://hyperweave.app/hw/v1.0">
+      <hw:artifactType>application-icon</hw:artifactType>
+      <hw:chromaticSystem>macos-vibrant-spectral</hw:chromaticSystem>
+      <hw:geometryFormLanguage>macos-squircle-monolith-orbit</hw:geometryFormLanguage>
+      <hw:reasoning>
+        <hw:intent>Refactor the README-AI macOS app mark into an adaptive, standards-compliant vector icon, eliminating deprecated SMIL overhead and CPU-heavy raster blur filters.</hw:intent>
+        <hw:approach>Preserved exact brand chromatic gradients (#4169E1 -> #7B3DE3 -> #8A2BE2) and geometry. Replaced SMIL animateMotion and stop-color mutations with pure CIM-compliant CSS keyframes animating only transform and opacity on isolated orbital planes. Integrated prefers-color-scheme and prefers-reduced-motion media queries.</hw:approach>
+        <hw:tradeoffs>Replaced rasterized feGaussianBlur with clean specular highlights and layered vector drop-shadows to ensure pixel-perfect rendering across high-DPI displays without blurred edge artifacts.</hw:tradeoffs>
+      </hw:reasoning>
+    </hw:metadata>
+  </metadata>
+
+  <defs>
+    <!-- Brand Primary Spectrum -->
+    <linearGradient id="macosGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4169E1" stop-opacity="1" />
+      <stop offset="50%" stop-color="#7B3DE3" stop-opacity="1" />
+      <stop offset="100%" stop-color="#8A2BE2" stop-opacity="1" />
+    </linearGradient>
+
+    <!-- Specular Highlight Overlay -->
+    <linearGradient id="macosHighlight" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0.1" />
+    </linearGradient>
+
+    <!-- Structural Shadow Depth -->
+    <linearGradient id="shadowGradient" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#000000" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#000000" stop-opacity="0.05" />
+    </linearGradient>
+
+    <!-- Orbital Satellite Fill -->
+    <radialGradient id="particleGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="1" />
+      <stop offset="60%" stop-color="#FFFFFF" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#8A2BE2" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <style>
+    :root {
+      --squircle-rim: rgba(255, 255, 255, 0.22);
+      --ambient-opacity: 0.06;
+      --chip-shadow: drop-shadow(0 8px 16px rgba(18, 10, 48, 0.28));
+      --text-opacity: 0.95;
+      --bracket-opacity: 0.35;
+    }
+
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --squircle-rim: rgba(255, 255, 255, 0.18);
+        --ambient-opacity: 0.08;
+        --chip-shadow: drop-shadow(0 8px 22px rgba(0, 0, 0, 0.45));
+        --text-opacity: 0.92;
+        --bracket-opacity: 0.3;
+      }
+    }
+
+    @media (prefers-color-scheme: light) {
+      :root {
+        --squircle-rim: rgba(255, 255, 255, 0.32);
+        --ambient-opacity: 0.05;
+        --chip-shadow: drop-shadow(0 6px 14px rgba(25, 12, 60, 0.2));
+        --text-opacity: 0.98;
+        --bracket-opacity: 0.45;
+      }
+    }
+
+    /* Ambient Core Pulse (CIM: transform + opacity only) */
+    .ambient-glow {
+      transform-origin: 128px 115px;
+      opacity: var(--ambient-opacity);
+      animation: core-pulse 4s ease-in-out infinite;
+    }
+
+    /* Center Monolith Chip */
+    .center-monolith {
+      filter: var(--chip-shadow);
+      transition: filter 0.3s ease;
+    }
+
+    /* Orbital Plane Rotations */
+    .orbit-plane {
+      transform-origin: 128px 115px;
+    }
+
+    .orbit-1 {
+      animation: orbit-cw 8s linear infinite;
+    }
+
+    .orbit-2 {
+      animation: orbit-ccw 6s linear infinite;
+    }
+
+    .orbit-3 {
+      animation: orbit-cw 10s linear infinite;
+    }
+
+    /* Satellite Pulse */
+    .particle {
+      animation: particle-breath 3s ease-in-out infinite alternate;
+    }
+
+    .particle-alt {
+      animation: particle-breath 2.5s ease-in-out infinite alternate-reverse;
+    }
+
+    /* Keyframes */
+    @keyframes core-pulse {
+      0%, 100% {
+        transform: scale(1);
+      }
+      50% {
+        transform: scale(1.06);
+      }
+    }
+
+    @keyframes orbit-cw {
+      from {
+        transform: rotate(0deg);
+      }
+      to {
+        transform: rotate(360deg);
+      }
+    }
+
+    @keyframes orbit-ccw {
+      from {
+        transform: rotate(360deg);
+      }
+      to {
+        transform: rotate(0deg);
+      }
+    }
+
+    @keyframes particle-breath {
+      0% {
+        opacity: 0.75;
+        transform: scale(0.85);
+      }
+      100% {
+        opacity: 1;
+        transform: scale(1.15);
+      }
+    }
+
+    /* Accessibility: Reduced Motion */
+    @media (prefers-reduced-motion: reduce) {
+      .ambient-glow,
+      .orbit-plane,
+      .particle,
+      .particle-alt {
+        animation: none;
+      }
+    }
+  </style>
+
+  <!-- macOS Squircle Canvas -->
+  <rect width="256" height="256" rx="58" fill="url(#macosGradient)" />
+
+  <!-- Adaptive Edge Rim -->
+  <rect x="0.5" y="0.5" width="255" height="255" rx="57.5"
+        fill="none" stroke="var(--squircle-rim)" stroke-width="1" />
+
+  <!-- Surface Depth Layers -->
+  <rect x="0" y="0" width="256" height="128" rx="58"
+        fill="url(#macosHighlight)" opacity="0.3" />
+  <rect x="0" y="128" width="256" height="128" rx="58"
+        fill="url(#shadowGradient)" opacity="0.3" />
+
+  <!-- Core Ambient Glow -->
+  <circle class="ambient-glow" cx="128" cy="115" r="80" fill="#FFFFFF" />
+
+  <!-- Center Monolith Unit -->
+  <g class="center-monolith" transform="translate(128, 115)">
+    <!-- Base Card -->
+    <rect x="-50" y="-50" width="100" height="100" rx="15"
+          fill="#FFFFFF" opacity="0.96" />
+    <!-- Upper Specular Sheet -->
+    <rect x="-50" y="-50" width="100" height="50" rx="15"
+          fill="url(#macosHighlight)" opacity="0.35" />
+    <!-- AI Monolith Glyph -->
+    <path d="M -30 -35 L -30 35 L -10 35 L 0 20 L 10 35 L 30 35 L 30 -35 Z"
+          fill="url(#macosGradient)" />
+  </g>
+
+  <!-- Concentric Orbital Planes -->
+  <!-- Orbit 1: Radius 60, Clockwise -->
+  <g class="orbit-plane orbit-1">
+    <circle class="particle" cx="128" cy="55" r="4" fill="url(#particleGrad)" />
+  </g>
+
+  <!-- Orbit 2: Radius 55, Counter-Clockwise -->
+  <g class="orbit-plane orbit-2">
+    <circle class="particle-alt" cx="128" cy="60" r="3" fill="url(#particleGrad)" />
+  </g>
+
+  <!-- Orbit 3: Radius 65, Clockwise -->
+  <g class="orbit-plane orbit-3">
+    <circle class="particle" cx="128" cy="50" r="3.5" fill="url(#particleGrad)" />
+  </g>
+
+  <!-- Typography -->
+  <text x="128" y="200"
+        text-anchor="middle"
+        font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif"
+        font-size="24"
+        font-weight="700"
+        letter-spacing="0.5"
+        fill="#FFFFFF"
+        opacity="var(--text-opacity)">
+    README-AI
+  </text>
+
+  <!-- Geometric Syntax Anchors -->
+  <g transform="translate(40, 40)" opacity="var(--bracket-opacity)">
+    <path d="M 0 0 L -8 8 L 0 16" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    <path d="M 16 0 L 24 8 L 16 16" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+
+  <g transform="translate(216, 216)" opacity="var(--bracket-opacity)">
+    <path d="M 0 0 L -8 -8 L 0 -16" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+    <path d="M 16 0 L 24 -8 L 16 -16" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  </g>
+</svg>

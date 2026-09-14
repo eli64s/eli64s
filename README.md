@@ -8,15 +8,11 @@ I'm **Eli**, currently building <img src="https://raw.githubusercontent.com/eli6
 [<img src="https://hyperweave.app/v1/chart/stars/eli64s/readme-ai/automata.static?variant=bone" alt="readme-ai Star History" width="495" />][readme-ai]
 -->
 
-<!--
-<img src="https://hyperweave.app/v1/divider/band/chrome?variant=graphite" alt="divider" width="100%">
--->
-
 ### Open Source Projects
 
 - <img src="https://raw.githubusercontent.com/eli64s/eli64s/main/assets/icons/hyperweave-favicon.svg" width="18" height="18" align="absmiddle" alt="HyperWeave"/> **[HyperWeave][hyperweave]**: The visual CLI for agents.
-- **[ReadmeAI][readme-ai]**: Automated README file generator, powered by AI.
-- **[Markitect][markitect]**: Tools for modular documentation workflows and content management.
+- <img src="https://raw.githubusercontent.com/eli64s/eli64s/main/assets/icons/readmeai-favicon.svg" width="18" height="18" align="absmiddle" alt="ReadmeAI"/> **[ReadmeAI][readme-ai]**: Automated README file generator, powered by AI.
+- <img src="https://raw.githubusercontent.com/eli64s/eli64s/main/assets/icons/markitect-favicon.svg" width="18" height="18" align="absmiddle" alt="Markitect"/> **[Markitect][markitect]**: Tools for modular documentation workflows and content management.
 - <img src="https://raw.githubusercontent.com/eli64s/eli64s/main/assets/icons/openai-favicon.svg" width="18" height="18" align="absmiddle" alt="OpenAI"/> **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's [Code Search Using Embeddings][openai-cookbook] guide.
 
 <!-- 

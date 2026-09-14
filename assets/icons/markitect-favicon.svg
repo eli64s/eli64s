@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="-20 -13 40 26"
+     width="160"
+     height="160"
+     preserveAspectRatio="xMidYMid meet"
+     role="img"
+     aria-labelledby="markitect-title markitect-desc">
+  <title id="markitect-title">Markitect Core Mark</title>
+  <desc id="markitect-desc">Adaptive vector icon isolating the inner concentric M-geometry with native linear gradient fidelity and CIM-compliant breathing motion.</desc>
+
+  <metadata>
+    <hw:metadata xmlns:hw="https://hyperweave.app/hw/v1.0">
+      <hw:artifactType>brand-icon</hw:artifactType>
+      <hw:chromaticSystem>linear-gradient-quad-stop</hw:chromaticSystem>
+      <hw:geometryFormLanguage>concentric-polygonal-m-glyph</hw:geometryFormLanguage>
+      <hw:reasoning>
+        <hw:intent>Preserve exact original brand gradient palette (gold, cyan, purple, magenta) across inner nested glyph layers while stripping external background tiles and framing.</hw:intent>
+        <hw:approach>Retained authentic stop-color definitions within a unified userSpaceOnUse linear gradient mapped precisely to glyph extents. Replaced legacy SMIL morphing with hardware-accelerated CSS transform scaling, conditioned on prefers-reduced-motion.</hw:approach>
+        <hw:tradeoffs>Kept gradient palette static across color schemes rather than re-mapping to monochrome variables to guarantee 1:1 color accuracy with the source asset.</hw:tradeoffs>
+      </hw:reasoning>
+    </hw:metadata>
+  </metadata>
+
+  <defs>
+    <linearGradient id="mainGradient" x1="-18" y1="-11" x2="18" y2="11" gradientUnits="userSpaceOnUse">
+      <stop offset="20%" stop-color="#FFD700" />
+      <stop offset="40%" stop-color="#00E5FF" />
+      <stop offset="60%" stop-color="#7934C5" />
+      <stop offset="80%" stop-color="#FF00FF" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .mark-root {
+      transform-origin: 0 0;
+      animation: mark-pulse 8s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+    }
+
+    .outer-m {
+      stroke: url(#mainGradient);
+      stroke-width: 0.7;
+      stroke-linejoin: round;
+      fill: none;
+    }
+
+    .mid-m {
+      stroke: url(#mainGradient);
+      stroke-width: 0.5;
+      stroke-linejoin: round;
+      fill: none;
+      opacity: 0.7;
+    }
+
+    .core-m {
+      stroke: url(#mainGradient);
+      stroke-width: 0.3;
+      stroke-linejoin: round;
+      fill: none;
+      opacity: 0.5;
+    }
+
+    .vertex-node {
+      fill: url(#mainGradient);
+      opacity: 0.8;
+    }
+
+    @keyframes mark-pulse {
+      0%, 100% {
+        transform: scale(1);
+      }
+      50% {
+        transform: scale(1.05);
+      }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .mark-root {
+        animation: none;
+      }
+    }
+  </style>
+
+  <g class="mark-root">
+    <!-- Main M outline -->
+    <path class="outer-m"
+          d="M-18,-11 L-11,-11 L-11,6 L-6,-7 L0,6 L6,-7 L11,6 L11,-11 L18,-11 L18,11 L11,11 L0,-6 L-11,11 L-18,11 Z" />
+
+    <!-- Inner M -->
+    <path class="mid-m"
+          d="M-15,-8 L-9,-8 L-9,4 L-5,-5 L0,4 L5,-5 L9,4 L9,-8 L15,-8 L15,8 L9,8 L0,-4 L-9,8 L-15,8 Z" />
+
+    <!-- Core M -->
+    <path class="core-m"
+          d="M-12,-5 L-7,-5 L-7,3 L-4,-4 L0,3 L4,-4 L7,3 L7,-5 L12,-5 L12,5 L7,5 L0,-3 L-7,5 L-12,5 Z" />
+
+    <!-- Anchor Vertices -->
+    <g class="vertex-node">
+      <circle cx="-18" cy="-11" r="0.3" />
+      <circle cx="18" cy="-11" r="0.3" />
+      <circle cx="-18" cy="11" r="0.3" />
+      <circle cx="18" cy="11" r="0.3" />
+    </g>
+  </g>
+</svg>

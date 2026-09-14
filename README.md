@@ -1,6 +1,6 @@
 ### What's Up?
 
-I'm **Eli**, currently building <img src="assets/icons/hyperweave-favicon.svg" width="18" height="18" alt="HyperWeave" align="center"/> [HyperWeave], a visual CLI for agents. Cheers!
+I'm **Eli**, currently building <img src="https://raw.githubusercontent.com/eli64s/eli64s/main/assets/icons/hyperweave-favicon.svg" width="18" height="18" alt="HyperWeave" align="absmiddle"/> [HyperWeave], a visual CLI for agents. Cheers!
 
 [<img src="https://hyperweave.app/v1/stats/eli64s/automata?variant=bone" alt="Eli's GitHub Stats" width="495" />][github-profile]
 
@@ -14,16 +14,10 @@ I'm **Eli**, currently building <img src="assets/icons/hyperweave-favicon.svg" w
 
 ### Open Source Projects
 
-- <img src="assets/icons/hyperweave-favicon.svg" width="18" height="18" alt="HyperWeave" align="center"/> **[HyperWeave][hyperweave]**: The visual CLI for agents.
+- <img src="https://raw.githubusercontent.com/eli64s/eli64s/main/assets/logos/hyperweave-favicon.svg" width="18" height="18" align="absmiddle" alt="HyperWeave"/> **[HyperWeave][hyperweave]**: The visual CLI for agents.
 - **[ReadmeAI][readme-ai]**: Automated README file generator, powered by AI.
 - **[Markitect][markitect]**: Tools for modular documentation workflows and content management.
-- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/openai-favicon.dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/logos/openai-favicon.light.svg"><img src="assets/icons/openai-favicon.light.svg" width="18" height="18" alt="OpenAI" align="center"></picture> **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's [Code Search Using Embeddings][openai-cookbook] guide.
-
-<!--
-<div align="center">
-  <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
-</div>
--->
+- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eli64s/eli64s/main/assets/logos/openai-favicon.dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eli64s/eli64s/main/assets/logos/openai-favicon.light.svg"><img src="https://raw.githubusercontent.com/eli64s/eli64s/main/assets/logos/openai-favicon.light.svg" width="18" height="18" align="absmiddle" alt="OpenAI"></picture> **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's [Code Search Using Embeddings][openai-cookbook] guide.
 
 <!-- 
 ### 🔷 Professional Experience
@@ -49,10 +43,6 @@ I'm **Eli**, currently building <img src="assets/icons/hyperweave-favicon.svg" w
 
 
 <img src="https://hyperweave.app/v1/divider/band/chrome?variant=graphite" alt="divider" width="100%" style="margin: 20px 0;">
-
-<!-- <div align="center">
-  <img src="assets/.archive/line.svg" alt="separator" width="100%" height="3px" style="margin: 20px 0;">
-</div> -->
 
 <!-- REFERENCE LINKS -->
 <!-- GITHUB PROFILE -->

@@ -1,6 +1,6 @@
 ### What's Up?
 
-I’m **Eli**, currently building [HyperWeave], a visual output layer for agents. Cheers!
+I'm **Eli**, currently building <img src="assets/icons/hyperweave-favicon.svg" width="18" height="18" alt="HyperWeave" align="center"/> [HyperWeave], a visual CLI for agents. Cheers!
 
 [<img src="https://hyperweave.app/v1/stats/eli64s/automata?variant=bone" alt="Eli's GitHub Stats" width="495" />][github-profile]
 
@@ -14,11 +14,10 @@ I’m **Eli**, currently building [HyperWeave], a visual output layer for agents
 
 ### Open Source Projects
 
-- **[HyperWeave][hyperweave]**: Representation layer between agents and humans.
+- <img src="assets/icons/hyperweave-favicon.svg" width="18" height="18" alt="HyperWeave" align="center"/> **[HyperWeave][hyperweave]**: The visual CLI for agents.
 - **[ReadmeAI][readme-ai]**: Automated README file generator, powered by AI.
 - **[Markitect][markitect]**: Tools for modular documentation workflows and content management.
-- **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's [Code Search Using Embeddings][openai-cookbook] guide.
-
+- <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/openai-favicon.dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/logos/openai-favicon.light.svg"><img src="assets/icons/openai-favicon.light.svg" width="18" height="18" alt="OpenAI" align="center"></picture> **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's [Code Search Using Embeddings][openai-cookbook] guide.
 
 <!--
 <div align="center">

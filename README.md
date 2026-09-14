@@ -14,10 +14,10 @@ I'm **Eli**, currently building <img src="https://raw.githubusercontent.com/eli6
 
 ### Open Source Projects
 
-- <img src="https://raw.githubusercontent.com/eli64s/eli64s/main/assets/logos/hyperweave-favicon.svg" width="18" height="18" align="absmiddle" alt="HyperWeave"/> **[HyperWeave][hyperweave]**: The visual CLI for agents.
+- <img src="https://raw.githubusercontent.com/eli64s/eli64s/main/assets/icons/hyperweave-favicon.svg" width="18" height="18" align="absmiddle" alt="HyperWeave"/> **[HyperWeave][hyperweave]**: The visual CLI for agents.
 - **[ReadmeAI][readme-ai]**: Automated README file generator, powered by AI.
 - **[Markitect][markitect]**: Tools for modular documentation workflows and content management.
-- <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/eli64s/eli64s/main/assets/logos/openai-favicon.dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/eli64s/eli64s/main/assets/logos/openai-favicon.light.svg"><img src="https://raw.githubusercontent.com/eli64s/eli64s/main/assets/logos/openai-favicon.light.svg" width="18" height="18" align="absmiddle" alt="OpenAI"></picture> **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's [Code Search Using Embeddings][openai-cookbook] guide.
+- <img src="https://raw.githubusercontent.com/eli64s/eli64s/main/assets/icons/openai-favicon.svg" width="18" height="18" align="absmiddle" alt="OpenAI"/> **[OpenAI Cookbook][openai-cookbook]**: Contributor to OpenAI's [Code Search Using Embeddings][openai-cookbook] guide.
 
 <!-- 
 ### 🔷 Professional Experience
